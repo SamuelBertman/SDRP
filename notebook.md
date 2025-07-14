@@ -37,7 +37,7 @@ Based on comparison between the previous 4 different light-activated self-healin
 
 However, lacked repeat healing mention so still unstated — further research to be done to confirm if or not.
 
-## Limitations and Open Risks
+## Limitations
 
 While the selected polymer meets most of the desired criteria for simulation purposes, the following limitations should be noted:
 
