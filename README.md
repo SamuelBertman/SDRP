@@ -24,8 +24,6 @@ It is possible to design a light-activated self-healing polymer composite which 
 | [Ethylenediamine-Polyurea Microcapsule Epoxy](https://pubs.acs.org/doi/abs/10.1021/acsapm.8b00116) | Not specified (UV/Visible unknown) | Solid via solidification; liquid isocyanates | Mostly 72 to 144 hours; nearly full by 366h | 25 | Not specified | Not stated | Not stated | Cold or breakage behavior unknown |
 | [Polyurethane Elastomers](https://www.mdpi.com/1996-1944/13/2/326) | UV light | Gel | ~12h near-complete healing | 80 | 3.39 MPa tensile strength | Yes, efficiency drops over 3 cycles: 95%, 87%, 60% | Not stated | Healing likely ineffective at low temp |
 | [4,4′-Diaminodiphenyl disulfide](https://pubs.acs.org/doi/full/10.1021/acsmacrolett.9b00766) | UV light | Solid | 1–3h near-complete healing | 100 | Breaks at ~3.7 MPa stress | Yes, due to S-S bonds | Excessive UV causes weakening | Heat accelerates healing; low temp slows process |
-| [Unnamed polymer from Polymer journal](https://www.sciencedirect.com/science/article/abs/pii/S003238612100077X) | - | - | - | - | - | - | - | Data not included in original notes |
-How to use it:
 
 ## Documentation
 - Hypothesis
