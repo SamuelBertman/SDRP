@@ -44,4 +44,14 @@ Polyurethane Elastomers
 - https://pcm.annas-archive.org/scidb/10.1021/acsmacrolett.9b00766/ (annas archive)
 - https://pubs.acs.org/doi/full/10.1021/acsmacrolett.9b00766 (article link)
 
-
+4,4′-Diaminodiphenyl disulfide
+. UV light
+. solid
+. 1 to 3h for near-complete healing
+. 100 degrees celsius 
+. able to repeat heal due to S-S bonds
+. heat accelerates healing, assumption that at low temps, healing would be heavily decreased, not enough energy for S-S bonds to reform
+. cannot handle too high of stress, breaks at 3.7MPa roughly
+. excessive/long-term UV radiation cause weakening
+- https://pcm.annas-archive.org/scidb/10.1016/j.polymer.2021.123454/ (annas archive)
+- https://www.sciencedirect.com/science/article/abs/pii/S003238612100077X (article link)
