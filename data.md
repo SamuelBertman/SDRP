@@ -33,6 +33,15 @@ Ethylenediamine-Polyurea Microcapsule Epoxy
 - https://pcm.annas-archive.org/scidb/10.3390/ma13020326/ (annas archive)
 - https://www.mdpi.com/1996-1944/13/2/326 (article link)
 
-
+Polyurethane Elastomers
+. UV light - can cure entire layer of resin at once exposure
+. gel
+. 12h healing process - near complete
+. 80 degrees celsius
+. can heal repeatedly however decreasing healing efficiencies of ~95%, 87%, and 60% tensile strengths with each of the 3 breaks tested
+. does not specify if heals at low temperatures (implies not effectively based on 80 degree celsius)
+. 3.39MPa with 0.09 +- standard deviation (tensile strength)
+- https://pcm.annas-archive.org/scidb/10.1021/acsmacrolett.9b00766/ (annas archive)
+- https://pubs.acs.org/doi/full/10.1021/acsmacrolett.9b00766 (article link)
 
 
