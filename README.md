@@ -33,4 +33,3 @@ This project aims to explore the design and simulation of a novel, light-activat
 
 ---
 
-Feel free to adapt or expand sections as the project progresses.
