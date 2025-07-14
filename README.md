@@ -1,7 +1,7 @@
 # SDRP: Self-Healing Polymers for Space Habitats and Satellites
 
 ## Project Overview
-This project aims to explore the design and simulation of a novel, light-activated self-healing polymer composite that can autonomously repair micrometeoroid damage in inflatable habitats intended for Mars missions. The goal is to use computational chemistry and materials modelling to evaluate the feasibility and optimize the polymer’s healing efficiency under Martian environmental conditions.
+In Martian environments, inflatable habitats are at risk of damage due to the extreme environmental conditions which could pose risk to the crew in such habitats. This project explores the design and simulation of a light-activated self-healing polymer composite that is able to mitigate the damage caused by Martian conditions. The simulations show the effect of the micrometeoroid damage on the polymer and the healing process triggered subsequently by light with an overall aim of net reduction damage over time in comparison to non-healing materials. This research could help with the development of advanced materials that would improve habitat durability increasing duration and safety of human missions on mars. 
 
 ## Research Question
 Can I design and model a light-activated self-healing polymer composite tailored for micrometeoroid damage repair in inflatable space habitats on Mars?
