@@ -20,5 +20,19 @@ Elastomers Reinforced with Polyhedral Oligomeric Silsesquioxanes
 - https://pcm.annas-archive.org/scidb/10.1021/acsapm.8b00116/ (annas archive)
 - https://pubs.acs.org/doi/abs/10.1021/acsapm.8b00116 (normal article link)
 
+Ethylenediamine-Polyurea Microcapsule Epoxy
+. doesn't specify if UV or visible light
+. solid via solidification 
+. liquid isocyanates
+. self-healing process occurs mostly within 72 to 144 hours after damage, stabilizes around 144h mark, after 366h, aprroximately nearly fully healed
+. at 25 degrees celsius
+. does not mention if can repeatedly heal
+. doesn't specify if able to heal if too cold
+. doesn't specify if break easy
+. doesn't specify if handle radiation
+- https://pcm.annas-archive.org/scidb/10.3390/ma13020326/ (annas archive)
+- https://www.mdpi.com/1996-1944/13/2/326 (article link)
+
+
 
 
