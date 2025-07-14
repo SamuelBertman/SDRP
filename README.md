@@ -25,6 +25,11 @@ It is possible to design a light-activated self-healing polymer composite which 
 | [Polyurethane Elastomers](https://www.mdpi.com/1996-1944/13/2/326) | UV light | Gel | ~12h near-complete healing | 80 | 3.39 MPa tensile strength | Yes, efficiency drops over 3 cycles: 95%, 87%, 60% | Not stated | Healing likely ineffective at low temp |
 | [4,4′-Diaminodiphenyl disulfide](https://pubs.acs.org/doi/full/10.1021/acsmacrolett.9b00766) | UV light | Solid | 1–3h near-complete healing | 100 | Breaks at ~3.7 MPa stress | Yes, due to S-S bonds | Excessive UV causes weakening | Heat accelerates healing; low temp slows process |
 
+## Chosen inital polymer simulation
+Based on comparison between 4 different light-activated self-healing polymers for a baseline for the simulation design, Poly(acrylate amide) Elastomers reinforced with Polyhedral Oligomeric Silsesquioxanes was selected. This decision was made based on the following criteria:
+- shows high strain tolerance up to 230% at 12 hours of healing relevant to meteoroid damage.
+- initial study provided lots of data around healing capabilities over 12 hour timeframe.
+
 ## Documentation
 - Hypothesis
 - Background Research
