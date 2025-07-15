@@ -46,7 +46,36 @@ While the selected polymer meets most of the desired criteria for simulation pur
 - The lowest tested temperature is 30°C; Martian night temperatures reach −60°C, so performance at lower temperatures remains unvalidated  
 - Additional material tuning (e.g., hybridization, coatings, insulation) may be needed for operational use
 
+## Martian Environmental Parameters for Simulation
 
+A baseline of important factors of Martian conditions was found from current research (see `sources.md`), out of the provided conditions, the following conditions were selected for the Martian simulation environment:
 
+- **Low Temperature**: -35°C
+- **Oxidation**: perchlorates in soil, chemical degradation.
+- **Radiation Exposure**: Estimated solar UV flux, particularly UVA/UVB relevant to photoinitiators.
+- **Micrometeoroid Events**: Incorporated using probabilistic models from MRO data.
 
+### Rationale
+
+These factors were chosen because they are the most probable environmental conditions to effect the polymer.
+
+## Data input for each factor
+
+- **Low Temperature**
+  POLYMER - Glass transition temperature (Tg)
+          - Tensile strength, flexibility
+          - Thermal contraction coefficients
+  MARS - -35°C
+- **Oxidation**
+  POLYMER - Reaction rates with perchlorates
+          - Changes in properties after oxidizer exposure
+          - Oxidative degradation of polymers by perchlorates
+- **Radiation Exposure**
+  POLYMER - UV absorption spectra of the polymer
+          - Rate of photodegradation by UVA/UVB
+  MARS - Activation efficiency of photoinitiators under Martian UV flux
+- **Micrometeoroid Events**
+  POLYMER - Self-healing response time after micrometeoroid damage
+          - Damage thresholds from high-velocity impacts
+  MARS - Impact frequency and energy from Mars Reconnaissance Orbiter data
 
