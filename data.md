@@ -27,7 +27,7 @@
 
 ---
 
-## Polyurethane Elastomers  
+## Polyurethane Elastomers (Ma et al., 2020)
 **Source**:  
 - https://pcm.annas-archive.org/scidb/10.3390/ma13020326/  
 - https://www.mdpi.com/1996-1944/13/2/326  
