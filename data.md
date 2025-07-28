@@ -11,7 +11,8 @@
 
 ---
 
-## Ethylenediamine-Polyurea Microcapsule Epoxy  
+## Ethylenediamine-Polyurea Microcapsule Epoxy (Xu et al., 2019)
+
 **Source**:  
 - https://pcm.annas-archive.org/scidb/10.1021/acsapm.8b00116/  
 - https://pubs.acs.org/doi/abs/10.1021/acsapm.8b00116  
