@@ -6,9 +6,7 @@
 
 3. Ma, Y., Zhang, Y., Liu, J., Sun, Y., Ge, Y., Yan, X., & Wu, J. (2020). Preparation and characterization of ethylenediamine-polyurea microcapsule epoxy self-healing coating. *Materials*, *13*(2), 326. https://doi.org/10.3390/ma13020326
 
-4. Polyurethane Elastomers. *ACS Macro Letters*.  
-   Annas Archive: https://pcm.annas-archive.org/scidb/10.1021/acsmacrolett.9b00766/  
-   Official Article: https://pubs.acs.org/doi/full/10.1021/acsmacrolett.9b00766
+4. Li, X., Yu, R., He, Y., Zhang, Y., Yang, X., Zhao, X., & Huang, W. (2019). Self-healing polyurethane elastomers based on a disulfide bond by digital light processing 3D printing. *ACS Macro Letters*, *8*(11), 1407–1412. https://doi.org/10.1021/acsmacrolett.9b00675
 
 5. 4,4′-Diaminodiphenyl Disulfide. *Polymer*.  
    Annas Archive: https://pcm.annas-archive.org/scidb/10.1016/j.polymer.2021.123454/  
