@@ -1,4 +1,4 @@
-## Poly(acrylate amide) Elastomers Reinforced with Polyhedral Oligomeric Silsesquioxanes (Wang & Urban, 2020)
+## Poly(acrylate amide) Elastomers Reinforced with Polyhedral Oligomeric Silsesquioxanes (Wang & Urban, 2020) (Xu et al., 2019)
 **Source**: https://www.nature.com/articles/s41578-020-0202-4  
 **Light Trigger**: visible light  
 **State**: solidlike at high cross-linking density; viscous liquid at low shear rate  
@@ -11,7 +11,7 @@
 
 ---
 
-## Ethylenediamine-Polyurea Microcapsule Epoxy (Xu et al., 2019)
+## Ethylenediamine-Polyurea Microcapsule Epoxy (Ma et al., 2020)
 
 **Source**:  
 - https://pcm.annas-archive.org/scidb/10.1021/acsapm.8b00116/  
@@ -27,7 +27,7 @@
 
 ---
 
-## Polyurethane Elastomers (Ma et al., 2020)
+## Polyurethane Elastomers 
 **Source**:  
 - https://pcm.annas-archive.org/scidb/10.3390/ma13020326/  
 - https://www.mdpi.com/1996-1944/13/2/326  
