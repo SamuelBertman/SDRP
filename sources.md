@@ -4,9 +4,7 @@
 
 2. Xu, S., Zhao, B., Adeel, M., & Zheng, S. (2019). Shape memory and self-healing properties of poly(acrylate amide) elastomers reinforced with polyhedral oligomeric silsesquioxanes. *Macromolecules*, *52*(3), 1054–1063. https://doi.org/10.1021/acs.macromol.8b02418
 
-3. Ethylenediamine-Polyurea Microcapsule Epoxy. *Materials (MDPI)*.  
-   Annas Archive: https://pcm.annas-archive.org/scidb/10.3390/ma13020326/  
-   Official Article: https://www.mdpi.com/1996-1944/13/2/326
+3. Ma, Y., Zhang, Y., Liu, J., Sun, Y., Ge, Y., Yan, X., & Wu, J. (2020). Preparation and characterization of ethylenediamine-polyurea microcapsule epoxy self-healing coating. *Materials*, *13*(2), 326. https://doi.org/10.3390/ma13020326
 
 4. Polyurethane Elastomers. *ACS Macro Letters*.  
    Annas Archive: https://pcm.annas-archive.org/scidb/10.1021/acsmacrolett.9b00766/  
