@@ -1,4 +1,4 @@
-## Poly(acrylate amide) Elastomers Reinforced with Polyhedral Oligomeric Silsesquioxanes  
+## Poly(acrylate amide) Elastomers Reinforced with Polyhedral Oligomeric Silsesquioxanes (Wang & Urban, 2020)
 **Source**: https://www.nature.com/articles/s41578-020-0202-4  
 **Light Trigger**: visible light  
 **State**: solidlike at high cross-linking density; viscous liquid at low shear rate  
