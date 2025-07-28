@@ -8,9 +8,7 @@
 
 4. Li, X., Yu, R., He, Y., Zhang, Y., Yang, X., Zhao, X., & Huang, W. (2019). Self-healing polyurethane elastomers based on a disulfide bond by digital light processing 3D printing. *ACS Macro Letters*, *8*(11), 1407–1412. https://doi.org/10.1021/acsmacrolett.9b00675
 
-5. 4,4′-Diaminodiphenyl Disulfide. *Polymer*.  
-   Annas Archive: https://pcm.annas-archive.org/scidb/10.1016/j.polymer.2021.123454/  
-   Official Article: https://www.sciencedirect.com/science/article/abs/pii/S003238612100077X
+5. Geelhand de Merxem, L., Vuluga, D., & Lecamp, L. (2021). A biobased self-healing thermoset coating with a dynamic photosensitive molecule. *Polymer*, *217*, 123454. https://doi.org/10.1016/j.polymer.2021.123454
 
 6. Extreme environments as Mars terrestrial analogs: The Rio Tinto case                       
    Official Article: https://www.sciencedirect.com/science/article/abs/pii/S0032063306001826
