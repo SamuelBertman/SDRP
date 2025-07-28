@@ -43,7 +43,8 @@
 
 ---
 
-## 4,4′-Diaminodiphenyl disulfide  
+## 4,4′-Diaminodiphenyl disulfide (Geelhand de Merxem et al., 2021)
+
 **Source**:  
 - https://pcm.annas-archive.org/scidb/10.1021/acsmacrolett.9b00766/  
 - https://pubs.acs.org/doi/full/10.1021/acsmacrolett.9b00766  
