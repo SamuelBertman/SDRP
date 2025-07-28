@@ -10,7 +10,6 @@
 
 5. Geelhand de Merxem, L., Vuluga, D., & Lecamp, L. (2021). A biobased self-healing thermoset coating with a dynamic photosensitive molecule. *Polymer*, *217*, 123454. https://doi.org/10.1016/j.polymer.2021.123454
 
-6. Extreme environments as Mars terrestrial analogs: The Rio Tinto case                       
-   Official Article: https://www.sciencedirect.com/science/article/abs/pii/S0032063306001826
+6. Amils, R., González-Toril, E., Fernández-Remolar, D., Gómez, F., Aguilera, Á., Rodríguez, N., Malki, M., García-Moyano, A., Fairén, A. G., de la Fuente, V., & Sanz, J. L. (2007). Extreme environments as Mars terrestrial analogs: The Rio Tinto case. *Planetary and Space Science*, *55*(3), 370-381. https://doi.org/10.1016/j.pss.2006.02.006
 
 7. Yu, K., Xin, A., & Wang, Q. (2019). Mechanics of light-activated self-healing polymer networks. *Journal of the Mechanics and Physics of Solids, 124*, 643-662. https://doi.org/10.1016/j.jmps.2018.11.019
