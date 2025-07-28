@@ -46,7 +46,7 @@ While the selected polymer meets most of the desired criteria for simulation pur
 - The lowest tested temperature is 30°C; Martian night temperatures reach −60°C, so performance at lower temperatures remains unvalidated  
 - Additional material tuning (e.g., hybridization, coatings, insulation) may be needed for operational use
 
-## Martian Environmental Parameters for Simulation
+## Martian Environmental Parameters for Simulation (Amils et al., 2007)
 
 A baseline of important factors of Martian conditions was found from current research (see `sources.md`), out of the provided conditions, the following conditions were selected for the Martian simulation environment:
 
