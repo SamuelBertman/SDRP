@@ -1,7 +1,6 @@
 # References
 
-1. Habault, D., Zhang, H., & Zhao, Y. (2020). Self-Healing Polymers: From Principles to Applications. *Nature Reviews Materials*.  
-   https://www.nature.com/articles/s41578-020-0202-4
+1. Wang, S., & Urban, M. W. (2020). Self-healing polymers. *Nature Reviews Materials, 5*, 562–583. https://doi.org/10.1038/s41578-020-0197-4
 
 2. Poly(acrylate amide) Elastomers Reinforced with Polyhedral Oligomeric Silsesquioxanes. *ACS Applied Polymer Materials*.  
    Annas Archive: https://pcm.annas-archive.org/scidb/10.1021/acsapm.8b00116/  
@@ -21,3 +20,5 @@
 
 6. Extreme environments as Mars terrestrial analogs: The Rio Tinto case                       
    Official Article: https://www.sciencedirect.com/science/article/abs/pii/S0032063306001826
+
+7. Yu, K., Xin, A., & Wang, Q. (2019). Mechanics of light-activated self-healing polymer networks. *Journal of the Mechanics and Physics of Solids, 124*, 643-662. https://doi.org/10.1016/j.jmps.2018.11.019
