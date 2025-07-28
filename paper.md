@@ -16,7 +16,7 @@ Can I design and model a light-activated self-healing polymer composite tailored
 ## Hypothesis
 It is possible to design a light-activated self-healing polymer composite which can repair micrometeoroid damage in inflatable space habitats on Mars by using simulations to predict responses to mechanical damage and its healing responses under Martian conditions.
 
--
+------
 
 # Mechanics of light-activated self-healing polymer networks (Yu, Xin, & Wang, 2019)
 
