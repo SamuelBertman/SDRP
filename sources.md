@@ -2,9 +2,7 @@
 
 1. Wang, S., & Urban, M. W. (2020). Self-healing polymers. *Nature Reviews Materials, 5*, 562–583. https://doi.org/10.1038/s41578-020-0197-4
 
-2. Poly(acrylate amide) Elastomers Reinforced with Polyhedral Oligomeric Silsesquioxanes. *ACS Applied Polymer Materials*.  
-   Annas Archive: https://pcm.annas-archive.org/scidb/10.1021/acsapm.8b00116/  
-   Official Article: https://pubs.acs.org/doi/abs/10.1021/acsapm.8b00116
+2. Xu, S., Zhao, B., Adeel, M., & Zheng, S. (2019). Shape memory and self-healing properties of poly(acrylate amide) elastomers reinforced with polyhedral oligomeric silsesquioxanes. *Macromolecules*, *52*(3), 1054–1063. https://doi.org/10.1021/acs.macromol.8b02418
 
 3. Ethylenediamine-Polyurea Microcapsule Epoxy. *Materials (MDPI)*.  
    Annas Archive: https://pcm.annas-archive.org/scidb/10.3390/ma13020326/  
