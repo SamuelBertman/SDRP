@@ -16,7 +16,7 @@ Can I design and model a light-activated self-healing polymer composite tailored
 ## Hypothesis
 It is possible to design a light-activated self-healing polymer composite which can repair micrometeoroid damage in inflatable space habitats on Mars by using simulations to predict responses to mechanical damage and its healing responses under Martian conditions.
 
-------
+---
 
 # Mechanics of light-activated self-healing polymer networks (Yu, Xin, & Wang, 2019)
 
@@ -34,3 +34,55 @@ How to model the light-activated interfacial self-healing behavior remains elusi
 
 ## Polymer used (light-activated self-healing)
 Optically healable TiO2 nanocomposite hydrogels
+
+---
+
+# self-healing polyurethane based on dynamic covalent bonds (An et al., 2023)
+
+## Dynamic Bond Benefit
+Dynamic covalent bonding used to maintain mechanical stress whilst self healing
+
+## Material Focus
+Polyurethane was the focus material
+
+## Types of Self-Healing in Polyurethane
+Two types of self healing around PU, extrinsic and intrinsic, extrinsic is the introduction of dynamic reversible structures (dynamic covalent bonds + non dynamic covalent interactions).
+
+## Healing Reaction
+Dynamic covalent bonds require 4 reaction steps to heal - reversible cycloaddition, exchange reactions, stable free radical mediated reshuffling and heterocyclic compound facilitated bond reformations.
+
+## Temperature Considerations
+Can be low temperature reactions for self healing but not sufficient mechanical stability.
+
+## Need for Multi-Network Systems
+Single dynamic covalent network polymers no longer sufficient, multi-network required (have high self healing and mechanical strength retainability)
+
+## Nanofiller Addition
+Nano fillers can be added to improve interaction for healing
+
+---
+
+# Self-healing waterborne polyurethane - matrix for preparing nano composite coating h-BN/GO/NiO (Kianfar et al., 2024)
+
+## Properties
+Self-healing waterborne polyurethane - matrix for preparing nano composite coating h-BN/GO/NiO.
+SBWPU containing 20% of healing agent showed anti-corrosion properties.
+Gradually loose function from physical damage.
+
+## Enhancing Base Properties
+Introducing covalent structures into waterborne polyurethane increases mechanical stability + lifetime.
+External stimuli such as light triggers reversible covalent bonds in polymer networks forming new bonds.
+Introducing Diimine-DiOH produces good mechanical strength coating polymer WPU.
+
+## Importance of Aromatic Schiff Base
+Focus on Aromatic Schiff base compounds are easily synthesised, good self healing, work through visible light, and rigid structure so high mechanical performance.
+Polyurethane on its own has low mechanical strength but with specific amounts of aromatic Schiff base groups could increase this in addition to 2D nano sheets h-BN.
+
+## Fix: Compatibility Needed
+h-BN sheets and WPU aren’t compatible but w non covalent functionalizing boron nitride w GO makes them compatible.
+
+## Healing Mechanism
+Intrinsic-based healing 
+
+## Data
+With the parameters of Schiff based waterborne polyurethane w Diimine-DiOH had self healing efficiency of 80.03% under visible light, healing time of 24h at ambient temps and tensile strength of 17.88 MPa and mechanical resistance of 20.80 MPa.
