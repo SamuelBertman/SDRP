@@ -13,3 +13,7 @@
 6. Amils, R., González-Toril, E., Fernández-Remolar, D., Gómez, F., Aguilera, Á., Rodríguez, N., Malki, M., García-Moyano, A., Fairén, A. G., de la Fuente, V., & Sanz, J. L. (2007). Extreme environments as Mars terrestrial analogs: The Rio Tinto case. *Planetary and Space Science*, *55*(3), 370-381. https://doi.org/10.1016/j.pss.2006.02.006
 
 7. Yu, K., Xin, A., & Wang, Q. (2019). Mechanics of light-activated self-healing polymer networks. *Journal of the Mechanics and Physics of Solids, 124*, 643-662. https://doi.org/10.1016/j.jmps.2018.11.019
+
+8. An, Z.-W., Xue, R., Ye, K., Zhao, H., Liu, Y., Li, P., Chen, Z.-M., Huang, C.-X., & Hu, G.-H. (2023). *Recent advances in self-healing polyurethane based on dynamic covalent bonds combined with other self-healing methods*. **Nanoscale**, 15, 6505–6520. https://doi.org/10.1039/D2NR07110J
+
+9. Kianfar et al., *Synthesis and application of Aromatic Schiff base waterborne polyurethane as visible-light triggered self-healing polymer and anticorrosion coating using h-BN/GO/NiO nano-composite*, Polymer Testing, 141 (2024), 108649. https://doi.org/10.1016/j.polymertesting.2024.108649
