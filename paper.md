@@ -86,3 +86,29 @@ Intrinsic-based healing
 
 ## Data
 With the parameters of Schiff based waterborne polyurethane w Diimine-DiOH had self healing efficiency of 80.03% under visible light, healing time of 24h at ambient temps and tensile strength of 17.88 MPa and mechanical resistance of 20.80 MPa.
+
+---
+
+# Self-Healing in Epoxy Thermoset Polymer Films Triggered by UV Light (Moniruzzaman et al., 2016)
+
+## Types of Self-Healing Mechanisms
+There are other forms of healing – capsule-based, vascular, and intrinsic.
+
+## Polymer Focus
+Focuses on cured epoxy thermoset resins modified with epoxy-functionalised photoresponsive azobenzene molecule – without resin capsules or other components not chemically joined.
+
+## Methods Used
+Study done using nanoindentation and atomic force microscopy (AFM).
+
+## Self-Healing Mechanism
+Showed good self-healing under UV irradiation only.
+Uses intrinsic healing mechanism triggered by UV-induced trans → cis isomerization of the azobenzene chromophore (photophore), which enables self-healing.
+Azobenzene is a highly abundant light-responsive molecule – changes to isomerisation of the azobenzene chromophores (reversible and repeatable isomerisation changes).
+UV light changes thermodynamically more stable trans-azobenzene to less stable cis form.
+Visible light converts cis back to trans.
+
+## Possible Space Applications
+Photoisomerization of azobenzene under UV light caused the polymer matrix to undergo bulk diffusion even below its Tb or Tm, which is favorable for space applications due to low ambient temperatures.
+
+## Research Gap
+Self-healing has been seen in azobenzene-based gels and soft polymers, but no reports exist on azobenzene-based rigid and toughened resins.
