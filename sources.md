@@ -17,3 +17,5 @@
 8. An, Z.-W., Xue, R., Ye, K., Zhao, H., Liu, Y., Li, P., Chen, Z.-M., Huang, C.-X., & Hu, G.-H. (2023). *Recent advances in self-healing polyurethane based on dynamic covalent bonds combined with other self-healing methods*. **Nanoscale**, 15, 6505–6520. https://doi.org/10.1039/D2NR07110J
 
 9. Kianfar et al., *Synthesis and application of Aromatic Schiff base waterborne polyurethane as visible-light triggered self-healing polymer and anticorrosion coating using h-BN/GO/NiO nano-composite*, Polymer Testing, 141 (2024), 108649. https://doi.org/10.1016/j.polymertesting.2024.108649
+
+10. Moniruzzaman, M., Christogianni, P., & Kister, G. (2016). Self-Healing in Epoxy Thermoset Polymer Films Triggered by UV Light. Procedia Engineering, 148, 114–121. https://doi.org/10.1016/j.proeng.2016.06.472
