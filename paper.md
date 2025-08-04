@@ -112,3 +112,13 @@ Photoisomerization of azobenzene under UV light caused the polymer matrix to und
 
 ## Research Gap
 Self-healing has been seen in azobenzene-based gels and soft polymers, but no reports exist on azobenzene-based rigid and toughened resins.
+
+---
+
+# High Survivability of Micrometeorites on Mars: Sites With Enhanced Availability of Limiting Nutrients (Tomkins et al., 2019)
+
+## type of impacts
+Mars has lower energy collisions but more frequent onc es with higher particle survival due to its thin atmosphere and lower gravity.
+
+## data frequency
+~2.5×10⁻¹⁶ to 5×10⁻¹⁶ g/cm²/s flux  = ~7.9 × 10⁻⁴ to 1.6 × 10⁻³ g/m²/day = ~0.29–0.59 g/m²/year
