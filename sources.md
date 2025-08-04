@@ -19,3 +19,5 @@
 9. Kianfar et al., *Synthesis and application of Aromatic Schiff base waterborne polyurethane as visible-light triggered self-healing polymer and anticorrosion coating using h-BN/GO/NiO nano-composite*, Polymer Testing, 141 (2024), 108649. https://doi.org/10.1016/j.polymertesting.2024.108649
 
 10. Moniruzzaman, M., Christogianni, P., & Kister, G. (2016). Self-Healing in Epoxy Thermoset Polymer Films Triggered by UV Light. Procedia Engineering, 148, 114–121. https://doi.org/10.1016/j.proeng.2016.06.472
+
+11. Tomkins, A. G., Genge, M. J., Tait, A. W., Alkemade, S. L., Langendam, A. D., Perry, P. P., & Wilson, S. (2019). High survivability of micrometeorites on Mars: Sites with enhanced availability of limiting nutrients. Journal of Geophysical Research: Planets, 124(6), 1393–1407. https://doi.org/10.1029/2019JE006005
