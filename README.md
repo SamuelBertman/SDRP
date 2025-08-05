@@ -9,8 +9,23 @@ Can I design and model a light-activated self-healing polymer composite tailored
 ## Hypothesis
 It is possible to design a light-activated self-healing polymer composite which can repair damage in inflatable space habitats on Mars by using simulations to predict responses to mechanical damage and its healing responses under Martian conditions.
 
-## Simulation Assumptions
+## Tools (to be used)
+- Materials Studio (academic license/free trial)
+- Python + ASE (Atomic Simulation Environment)
+- LAMMPS / GROMACS for molecular dynamics
+- COMSOL (for Finite Element Analysis simulations)
+- MATLAB for modelling (if available)
 
+## Folder Structure
+- LICENSE.md
+- README.md
+- data.md
+- figures.md
+- notebook.md
+- paper.md
+- sources.md
+
+## Simulation Assumptions
 - The polymer will be modeled as a 2D grid.
 - Random damage will occur at set time steps.
 - When light is present, the 2D grid will begin to fill the holes (heal damage).
@@ -18,21 +33,11 @@ It is possible to design a light-activated self-healing polymer composite which 
 - Mars environment parameters will be modeled as fixed constants, ignoring rare or inconsistent events.
 - The control material will not heal and will accumulate damage over time.
 
-## Documentation
-- Hypothesis
-- Background Research
-- Methodology
-- Simulation
-- Results
-
-## Tools
-- Materials Studio (academic license/free trial)
-- Python + ASE (Atomic Simulation Environment)
-- LAMMPS / GROMACS for molecular dynamics
-- COMSOL (for Finite Element Analysis simulations)
-- MATLAB for modelling (if available)
+## Results (to be documented)
 
 ## Deliverables
 - GitHub repository with all code and documentation
 - Full PDF report or blog post (to be linked on LinkedIn)
 - Visual diagrams and models
+
+## Link to PDF Report (to be done)
