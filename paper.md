@@ -122,3 +122,26 @@ Mars has lower energy collisions but more frequent onc es with higher particle s
 
 ## data frequency
 ~2.5×10⁻¹⁶ to 5×10⁻¹⁶ g/cm²/s flux  = ~7.9 × 10⁻⁴ to 1.6 × 10⁻³ g/m²/day = ~0.29–0.59 g/m²/year
+
+# Mars UV Spectrum Overview (Patel et al., 2002)
+
+## UV Range  
+The ultraviolet (UV) spectrum on Mars ranges from approximately **190 nm to 410 nm**.  
+
+## Impact of Dust on UV Transmission  
+High dust loading in the Martian atmosphere inversely affects the ratio of direct to diffuse UV transmission. Despite this, **high illumination levels persist even during intense dust storms with high optical depths**.  
+
+## UV Flux Values  
+UV flux at the Mars surface is predominantly found in two regions:  
+- Near **300–400 nm** (UV-A and UV-B ranges)  
+- Far **200–300 nm** (short-wave UV region)  
+This distribution is shaped by **absorption and scattering effects** in the atmosphere.  
+
+## Biological Significance of UV-C (However Less Common)  
+Short-wave UV-C radiation (**200–280 nm**) is **extremely damaging to biological organisms** and is a critical factor when considering extraterrestrial life sustainability, **however, it is less common on the surface**.  
+
+## Frequency of UV-A/B  
+UV-A and UV-B wavelengths are **more reliably available on the Martian surface** compared to the shorter wavelength UV-C.  
+
+## Effect of Dust on Light-Triggering  
+Although dust attenuates direct UV radiation, **sufficient diffuse UV remains to potentially activate light-triggered materials** on Mars.
