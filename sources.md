@@ -11,3 +11,7 @@
 5. Tomkins, A. G., Genge, M. J., Tait, A. W., Alkemade, S. L., Langendam, A. D., Perry, P. P., & Wilson, S. (2019). High survivability of micrometeorites on Mars: Sites with enhanced availability of limiting nutrients. Journal of Geophysical Research: Planets, 124(6), 1393–1407. https://doi.org/10.1029/2019JE006005
 
 6. Patel, M. R., Zarnecki, J. C., & Catling, D. C. (2002). Ultraviolet radiation on the surface of Mars and the Beagle 2 UV sensor. Planetary and Space Science, 50(9), 915–927. https://doi.org/10.1016/S0032-0633(02)00067-3
+
+7. González-Galindo, F., Forget, F., López-Valverde, M. A., Angelats i Coll, M., & Millour, E. (2009). A ground-to-exosphere Martian general circulation model: 1. Seasonal, diurnal, and solar cycle variation of thermospheric temperatures. Journal of Geophysical Research: Planets, 114(E4). https://doi.org/10.1029/2008JE003246
+
+
