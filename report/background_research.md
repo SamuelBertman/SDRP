@@ -158,3 +158,9 @@ UV-A and UV-B wavelengths are more reliably available on the Martian surface com
 Effect of Dust on Light-Triggering
 Although dust attenuates direct UV radiation, sufficient diffuse UV remains to potentially activate light-triggered materials on Mars.
 
+# A ground‐to‐exosphere Martian general circulation model: 1. Seasonal, diurnal, and solar cycle variation of thermospheric temperatures (González-Galindo et al., 2009)
+
+## Thermal cycles on Mars
+Thin atmosphere so low heat capacity, less heat stored meaning day = 20°C, night = -73°C (large swing), surface heats quickly during the day then during night this heat radiates into space very efficiently, leads to rapid cooling.
+ 
+
