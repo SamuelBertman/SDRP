@@ -162,5 +162,25 @@ Although dust attenuates direct UV radiation, sufficient diffuse UV remains to p
 
 ## Thermal cycles on Mars
 Thin atmosphere so low heat capacity, less heat stored meaning day = 20°C, night = -73°C (large swing), surface heats quickly during the day then during night this heat radiates into space very efficiently, leads to rapid cooling.
+
+# Biodegradable Thermoplastic Elastomers Incorporating POSS: Synthesis, Microstructure, and Mechanical Properties (McMullin, Rebar, & Mather, 2016)
+
+## Increasing POSS content on stiffness
+Increasing POSS content increases stiffness, rising from 2MPa to 13MPa with a 30% content of POSS at 13MPa - improves mechanical integrity.
+
+## Strain to Failure data
+High strain to failure of more than 1200% showing high flexibility - supports self-healing function.
+
+## Elastic Recovery
+Elastic recovery percentage shows material is able to return to original shape after deformation.
+
+## Mechanical Stability Across Temperature Fluctuations
+Increasing POSS increases mechanical stability across temp fluctuations - needed for Mars temp fluctuations.
+
+## Prestraining importance
+Prestraining (stretch before use) improves elastic recovery by up to 90% by inducing strain crystallization.
+
+## Crystallinity benefit
+Crystallinity could enhance mechanical stability and healing efficiency at low temps useful for Martian environment.
  
 
