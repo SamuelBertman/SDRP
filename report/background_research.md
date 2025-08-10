@@ -182,5 +182,49 @@ Prestraining (stretch before use) improves elastic recovery by up to 90% by indu
 
 ## Crystallinity benefit
 Crystallinity could enhance mechanical stability and healing efficiency at low temps useful for Martian environment.
+
+# Modeling self-healing materials (Balazs et al., 2007)
+
+## Common simulation methods
+
+- **Molecular dynamics**  
+  - pro: captures nanoscale interactions and entropic forces accurately  
+  - cons: computationally expensive for large-scale or long-time simulations
+
+- **Lattice spring model**  
+  - pros: efficient for stress analysis at crack tips, bridging nanoscale inputs to macroscale mechanical behaviour  
+  - cons: may abstract away some molecular-level detail
+
+- **Generalized lattice spring model**  
+  - pros: captures mechanochemical coupling and oscillations  
+  - cons: extension to 3D simulations is challenging in terms of computational efficiency
+
+## How healing is modelled
+
+- Molecular dynamics simulates polymer-induced entropic forces which push nanoparticles into nanoscale notches to "fill" defects  
+- Lattice spring model then models how filling reduces stress concentration and crack propagation  
+- Generalized lattice spring model models oscillatory chemical reaction triggered mechanically leading to chemical wave propagation  
+- Chemical waves POTENTIALLY trigger local polymerization or reversible cross-linking
+
+## Typical inputs
+
+- polymer chain properties - length, flexibility, interaction potentials  
+- nanoparticle size, concentration, interaction potentials  
+- initial defect geometry  
+- external conditions - mechanical compression, temperature, reagent concentration  
+- reaction kinetics parameters for chemical oscillations and polymerization/cross-linking
+
+## Typical outputs
+
+- particle distribution  
+- stress and strain fields around defects  
+- spatial and temporal concentration of oxidized catalyst  
+- oscillation patterns and chemical wave propagation  
+- structural changes and resulting mechanical property changes
+
+## 2D vs 3D simulations
+
+- Generalized lattice spring model is 2D  
+- a 3D extension is conceptually straightforward but computationally challenging
  
 
