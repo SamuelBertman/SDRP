@@ -15,3 +15,5 @@
 7. González-Galindo, F., Forget, F., López-Valverde, M. A., Angelats i Coll, M., & Millour, E. (2009). A ground-to-exosphere Martian general circulation model: 1. Seasonal, diurnal, and solar cycle variation of thermospheric temperatures. Journal of Geophysical Research: Planets, 114(E4). https://doi.org/10.1029/2008JE003246
 
 8. McMullin, E., Rebar, H. T., & Mather, P. T. (2016). Biodegradable Thermoplastic Elastomers Incorporating POSS: Synthesis, Microstructure, and Mechanical Properties. Macromolecules, 49(10), 3769–3779. https://doi.org/10.1021/acs.macromol.6b00470
+
+9. Balazs, A.C. (2007). Modeling self-healing materials. Materials Today, 10(9), 18-23. https://doi.org/10.1016/S1369-7021(07)70205-5
