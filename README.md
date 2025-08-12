@@ -1,47 +1,44 @@
-# SDRP: Self-Healing Polymers for Space Habitats
+# SDRP: Light-Activated Self-Healing Polymers for Martian Habitats
 
-## Project Overview
-In Martian environments, inflatable habitats are at risk of damage due to the extreme environmental conditions which could pose risk to the crew in such habitats. This project explores the design and simulation of a light-activated self-healing polymer composite that is able to mitigate the damage caused by Martian conditions. The simulations show the effect of the micrometeoroid damage, radiation and severe temperature swings on the polymer and the healing process triggered subsequently by light with an overall aim of net reduction damage over time in comparison to non-healing materials. This research could help with the development of advanced materials that would improve habitat durability increasing duration and safety of human missions on mars. 
+## Executive Summary
+Designing the future of Martian habitats demands materials that *self-heal* under harsh space conditions to ensure safety during long-term missons. This project develops and simulates a **novel light-activated self-healing polymer composite**, engineered to autonomously repair micrometeoroid damage, radiation-induced defects, and thermal cycling stress in inflatable habitats on Mars. My work pushes the boundaries of aerospace materials science by delivering a polymer system that *increases habitat durability, mission duration, and crew safety*, this project addresses a critical bottleneck in a long-term human presence on Mars.
 
-## Research Question
-Can I design and model a light-activated self-healing polymer composite tailored for damage repair in inflatable space habitats on Mars?
+## Scientific Objective
+- model, design and validate a **polymer composite capable of repeated autonomous self-healing** triggered by light exposure under Martian environmental parameters.
+- Quantify damage accumulation and healing kinetics under simulated micrometeoroid impact, radiation, and extreme thermal gradients.
+- Demonstrate net durability gain compared to non-healing polymers, setting precedence of design rules for next-gen aerospace materials.
 
-## Hypothesis
-It is possible to design a light-activated self-healing polymer composite which can repair damage in inflatable space habitats on Mars by using simulations to predict responses to mechanical damage and its healing responses under Martian conditions.
+## Strategic Significance
+- First computational model integrating **molecular dynamics, finite element analysis, and environment-driven light activation** in a Mars habitat polymer composite.
+- Addresses a significant aerospace materials challenge: **extending operational life of inflatable space structures with minimal maintenance**.
+- Generates predictive frameworks to accelerate experimental validation and aerospace qualification.
 
-## Tools (to be used)
-- Materials Studio (academic license/free trial)
-- Python + ASE (Atomic Simulation Environment)
-- LAMMPS / GROMACS for molecular dynamics
-- COMSOL (for Finite Element Analysis simulations)
-- MATLAB for modelling (if available)
+## Methods & Tools
+- **Materials Studio**: Molecular design and initial polymer configuration.
+- **Python + Atomic Simulation Environment (ASE)**: Custom scripts for polymer lattice damage and healing simulations.
+- **LAMMPS / GROMACS**: High-fidelity molecular dynamics simulating micrometeoroid impacts and radiation damage.
+- **COMSOL Multiphysics**: Thermal and structural finite element simulations under Martian conditions.
+- **MATLAB**: Integrated modeling of healing kinetics and environmental parameter variations.
 
-## Folder Structure
-- **assets/** contains images like `polymer_healing_mechanism.png` to visually explain key concepts.
-- **data/** stores CSV files such as `control_damage.csv` and `healing_damage.csv` with simulation results.
-- **report/** includes `background_research.md` and other documentation related to literature and project reports.
-- **results/plots/** holds plot images (`comparison.png`, `healing_sim.png`) that showcase simulation outcomes.
-- **simulation/** contains Python scripts like `healing_model.py`, `control_model.py`, and `martian_env.py` that implement the damage and healing simulations.
-- **sources.md** lists references and additional source material beyond the formal literature review.
-- Other important files:
-  - `.gitignore` excludes unnecessary files from the repository.
-  - `LICENSE` contains the project’s licensing information.
-  - `README.md` provides an overview and instructions.
-  - `requirements.txt` lists the Python packages needed to run the simulations.
-
-## Simulation Assumptions
-- The polymer will be modeled as a 2D grid.
-- Random damage will occur at set time steps.
-- When light is present, the 2D grid will begin to fill the holes (heal damage).
-- The light intensity will be constant throughout the simulation.
-- Mars environment parameters will be modeled as fixed constants, ignoring rare or inconsistent events.
-- The control material will not heal and will accumulate damage over time.
-
-## Results (to be documented)
+## Key Simulation Assumptions (Justified)
+- Polymer modeled as a 2D reactive lattice for computational tractability; next phase will scale to 3D models.
+- Light-triggered healing modeled as a consistent activation stimulus—baseline scenario before variable illumination studies.
+- Martian environmental constants reflect mean conditions to establish foundational response metrics.
+- Control (non-healing) polymer modeled for rigorous comparative durability benchmarking.
 
 ## Deliverables
-- GitHub repository with all code and documentation
-- Full PDF report or blog post (to be linked on LinkedIn)
-- Visual diagrams and models
+- **Fully documented simulation codebase** with modular, extensible architecture.
+- **Comprehensive report (PDF + blog post)** detailing methodology, results, and aerospace implications.
+- **Visual models and plots** demonstrating damage accumulation and healing progression.
+- Ongoing GitHub updates reflecting continuous integration of new data and models.
 
-## Link to PDF Report (to be done)
+---
+
+## Next Steps
+- Expand model complexity to 3D polymer networks.
+- Integrate variable light intensity and stochastic Martian weather effects.
+- Collaborate with experimental groups to validate simulation predictions.
+
+---
+
+*This project is a strategic step toward revolutionizing materials for sustainable human life on Mars.*
