@@ -227,4 +227,11 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
 - Generalized lattice spring model is 2D  
 - a 3D extension is conceptually straightforward but computationally challenging
  
+# The initiating radical yields and the efficiency of polymerization for various dental photoinitiators excited by different light curing units (Neumann et al., 2006)
 
+| Photoinitiator | Type / Absorption | Co-initiator | FP (mol/Einstein) | PAE (Optilux / LED) | Photopolymerization Efficiency ×10⁴ (Optilux / LED) | Mw (g/mol) | Likely Mars UV Performance |
+|----------------|-----------------|-------------|-----------------|-------------------|--------------------------------------------------|------------|---------------------------|
+| Camphorquinone (CQ) | Visible (400–500 nm, max 470) | EDB | 6.61 ×10⁻³ | 2.14 / 3.62 | 1.42 / 2.39 | 2.91 ×10⁶ | Poor, absorbs mostly visible; low UVA/UVB activation |
+| Phenylpropanedione (PPD) | α-diketone, UVA + slight visible | EDB | 9.46 ×10⁻³ | 2.56 / 2.73 | 2.42 / 2.58 | 1.40 ×10⁶ | Moderate, some UVA absorption; better with broad spectrum |
+| Monoacylphosphine oxide (MAPO, Lucirin TPO) | UVA | None | 31.64 ×10⁻³ | 4.38 / 0.40 | 13.86 / 1.27 | 1.76 ×10⁶ | Excellent under broad-band UV; poor under blue LED-only |
+| Bisacylphosphine oxide (BAPO, Irgacure 819) | UVA | None | 9.62 ×10⁻³ | 5.15 / 1.86 | 4.96 / 1.79 | 2.34 ×10⁶ | Very good under broad-band UV; moderate under LED |
