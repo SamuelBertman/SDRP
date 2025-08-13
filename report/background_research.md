@@ -235,3 +235,99 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
 | Phenylpropanedione (PPD) | α-diketone, UVA + slight visible | EDB | 9.46 ×10⁻³ | 2.56 / 2.73 | 2.42 / 2.58 | 1.40 ×10⁶ | Moderate, some UVA absorption; better with broad spectrum |
 | Monoacylphosphine oxide (MAPO, Lucirin TPO) | UVA | None | 31.64 ×10⁻³ | 4.38 / 0.40 | 13.86 / 1.27 | 1.76 ×10⁶ | Excellent under broad-band UV; poor under blue LED-only |
 | Bisacylphosphine oxide (BAPO, Irgacure 819) | UVA | None | 9.62 ×10⁻³ | 5.15 / 1.86 | 4.96 / 1.79 | 2.34 ×10⁶ | Very good under broad-band UV; moderate under LED |
+
+# Self‑healing materials for space applications: overview of present development and major limitations (Pernigoni et al., 2021)
+
+## 1. Material Properties & Performance
+
+- **Vitrimers**
+  - Efficient thermal fusion of multiple layers and thermoforming.
+  - Glass transition temperature ≈ 110 °C
+  - Young’s modulus ≈ 2.2 GPa
+  - Stress at failure ≈ 70 MPa
+  - Continuous glass fiber-reinforced composites can be welded multiple times due to exchange reactions.
+
+- **Mechanical Performance Examples**
+  - 3D-printed photoelastomer composites: tensile strength ~100% recovery after 60 min at 60 °C.
+  - Epoxy/PCL blends: fracture toughness increased by ~30% after thermal healing.
+  - Metal alloys (SUS304, Ti): Electropulsing repair closes microcracks.
+
+## 2. Space Environment Requirements
+
+- **Micrometeoroids & Orbital Debris (MMOD)**
+  - Small debris (<1 mm) → minor erosion
+  - Larger debris (~1 cm) → potential catastrophic failure
+
+- **Thermal Cycling**
+  - Range: −120 °C to +120 °C
+  - Can induce cracking, deformation, aging
+
+- **Radiation**
+  - UV, GCR, SPE can trigger polymer degradation or self-healing in specialized coatings
+
+- **High Vacuum & Outgassing**
+  - Leads to chemical modification, mass loss, contamination
+
+- **Atomic Oxygen (ATOX) in LEO**
+  - Erodes polymers; mitigated by self-healing coatings like UPy-POSS and PI-b-PDMS
+
+- **Challenges**
+  - Combined effects of vacuum, radiation, impacts, and thermal cycling are largely unexplored
+  - Space-specific testing needed
+
+## 3. Self-Healing Systems and Mechanisms
+
+### Extrinsic Mechanisms
+- Use embedded healing agents (microcapsules, metallic particles)
+- Example: Al₂O₃–Ti composites heal 20 μm cracks at 800–900 °C
+- UV-responsive microcapsule coatings trigger healing via mechanical damage or UV light
+
+### Intrinsic Mechanisms
+- Healing arises from reversible chemical bonds
+- Examples:
+  - Supramolecular polymers & ionomers with Kevlar®/Nextel® for hypervelocity impact shielding
+  - Autonomous thiol-ene-trialkylborane polymers seal breaches post-MMOD impact
+  - Vitrimers with reversible cross-linking for multiple repair cycles
+
+### Metal/Alloy Repair
+- Electropulsing induces atomic bonding and microcrack closure
+
+### ATOX-Resistant Coatings
+- UPy-POSS: SiO₂ passivation layer
+- TSP-POSS + phosphorus polyimides: double passivation, reduced weight loss
+- PI-b-PDMS: minimal mass loss, high stability
+
+## 4. Degradation and Chemical Effects in Mars-Like Environments
+
+| Material / System | Degradation Mechanism (Mars-Relevant) | Mechanical Effect | Healing Impact |
+|------------------|---------------------------------------|-----------------|----------------|
+| Polyurethane | Oxidation by perchlorates; chain scission | Reduced Young’s modulus & fracture toughness | Lower healing efficiency; potential bond failure |
+| Epoxy / PCL blends | Oxidation; thermal stress | Increased brittleness; crack propagation | Reduced thermal healing efficiency |
+| Vitrimers | Oxidative damage, radiation-induced chain scission | Lowered stress at failure if repeated cycles | Reduced reversibility of cross-links; slower healing |
+| 3D-printed photoelastomers | UV degradation, chain scission | Tensile strength loss over time | Delayed or incomplete crack closure |
+| Supramolecular polymers / Ionomers | Oxidation, radical attack | Reduced stiffness | Autonomous healing may be hindered |
+| Ti / SUS304 alloys | Surface oxidation | Microcrack propagation | Electropulsing still effective but may require higher current |
+| UPy-POSS / TSP-POSS coatings | Oxidation from reactive species | Minimal mass loss | Maintains healing; passivation reduces degradation |
+| PI-b-PDMS | Thermal & chemical stability | Maintains mechanical integrity | Effective localized healing |
+
+**Notes:**
+- Oxidative stress from perchlorates and reactive radicals is the dominant chemical degradation mechanism on Mars.
+- Thermal cycling and UV exacerbate degradation.
+- Extrinsic systems are most vulnerable; intrinsic systems with protected backbones or coatings are more robust.
+
+## 5. Key Insights & Future Directions
+
+- **Material Selection**
+  - Vitrimers, intrinsic self-healing polymers, and oxidation-resistant coatings are most promising.
+  - Extrinsic healing systems require encapsulation for long-term function.
+
+- **Environmental Simulation Needs**
+  - Combine **oxidizing soil simulants, UV/radiation, and thermal cycling** for realistic durability testing.
+
+- **Performance Trade-Offs**
+  - Oxidative and chemical degradation reduce healing cycles, mechanical strength, and fracture recovery.
+
+- **Future Directions**
+  - Mars-tailored polymers with oxidation-resistant backbones and intrinsic healing
+  - Protective coatings for localized damage mitigation
+  - Integrated monitoring of mechanical properties and healing efficiency
