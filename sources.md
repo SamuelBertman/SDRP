@@ -19,3 +19,5 @@
 9. Balazs, A.C. (2007). Modeling self-healing materials. Materials Today, 10(9), 18-23. https://doi.org/10.1016/S1369-7021(07)70205-5
 
 10. Neumann, M. G., Schmitt, C. C., Ferreira, G. C., & Corrêa, I. C. (2006). The initiating radical yields and the efficiency of polymerization for various dental photoinitiators excited by different light curing units. Dental Materials, 22(6), 576–584. https://doi.org/10.1016/j.dental.2005.06.006
+
+11. Pernigoni, L., Lafont, U., & Grande, A. M. (2021). Self-healing materials for space applications: Overview of present development and major limitations. CEAS Space Journal. https://doi.org/10.1007/s12567-021-00365-5
