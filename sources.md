@@ -17,3 +17,5 @@
 8. McMullin, E., Rebar, H. T., & Mather, P. T. (2016). Biodegradable Thermoplastic Elastomers Incorporating POSS: Synthesis, Microstructure, and Mechanical Properties. Macromolecules, 49(10), 3769–3779. https://doi.org/10.1021/acs.macromol.6b00470
 
 9. Balazs, A.C. (2007). Modeling self-healing materials. Materials Today, 10(9), 18-23. https://doi.org/10.1016/S1369-7021(07)70205-5
+
+10. Neumann, M. G., Schmitt, C. C., Ferreira, G. C., & Corrêa, I. C. (2006). The initiating radical yields and the efficiency of polymerization for various dental photoinitiators excited by different light curing units. Dental Materials, 22(6), 576–584. https://doi.org/10.1016/j.dental.2005.06.006
