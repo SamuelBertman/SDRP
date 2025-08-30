@@ -331,3 +331,94 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
   - Mars-tailored polymers with oxidation-resistant backbones and intrinsic healing
   - Protective coatings for localized damage mitigation
   - Integrated monitoring of mechanical properties and healing efficiency
+
+# Mars Greenhouse Material Notes (Clawson, 2007)
+
+## 1. PAR (Photosynthetically Active Radiation) on Mars
+- **Mean PAR at the equator:**
+  - Year 1 (MY 24-25): 25.4 ± 1.4 mol m⁻² sol⁻¹
+  - Year 2 (MY 25-26): 23.3 ± 4.3 mol m⁻² sol⁻¹
+- Dust storms reduce PAR by ~20% of the year; 80% remains near normal levels.
+- One-quarter of light is diffuse for half of the time; diffuse light is rarely <15%.
+- Multispectral radiative transfer modeling improves accuracy for photosynthetic photon flux by accounting for zenith angle and dust variations.
+- Previous PAR estimates were lower:
+  - Gertner, 2000: 20.8 mol m⁻² sol⁻¹
+  - Ono & Cuello, 2000: 19.4 mol m⁻² sol⁻¹
+
+## 2. UV Environment and Acceleration in Lab Tests
+- Mars UV is more intense in **UVB (280–315 nm)** and **UVC (200–280 nm)** than on Earth.
+- In lab simulations:
+  - Total UV flux accelerated by 2.0–3.5×
+  - UVB by 2.5–4.5×
+  - UVC by 4.5–7.0×
+  - Integrated total UV acceleration factor: ~7.52×
+- Simulated Mars UV tests are shorter in duration but higher in intensity due to impracticality of full-length exposure.
+
+## 3. Candidate Materials and UV Degradation
+- **Conventional polymer composites:**
+  - Nylon-based composite film and polyester-based composite fabric/film
+  - High transmittance for similar load, but degrade rapidly under Mars UV
+- **LARC™-CP1 (space-rated polyimide):**
+  - Minimal degradation under simulated Mars UV
+  - Cuts harmful UV wavelengths (including 254 nm peaks affecting polyamide degradation)
+  - Protects PET-based and polyester materials
+  - Long-term stability under stress in composites requires further study
+
+## 4. Mechanical Loading and Stress-Accelerated Photodegradation
+- UV-resistant polymers degrade faster under combined UV and mechanical stress than either factor alone.
+- **Mechanisms:**
+  - Stress reduces activation energy for polymer chain rupture → higher probability of chain scission
+  - Photo- and mechano-radicals induce microcracking → propagates under stress
+  - Accelerated creep and reduced creep rupture lifetime
+- Observed in multiple polymers: polypropylene, polyethylene, polystyrene, Kapron (polyamide)
+- Space-tested materials (e.g., Teflon® FEP on Hubble) showed embrittlement and through-thickness cracks under combined UV and stress
+
+## 5. Creep and Creep Rupture
+- **Creep stages:**
+  1. Primary: slowing strain rate after initial load
+  2. Secondary: quasi steady-state strain rate
+  3. Tertiary: accelerated strain → necking → rupture
+- **UV irradiation effects:**
+  - Increase chain scission → shift load to remaining chains → faster creep
+  - Cause crosslinking → embrittlement → brittle fracture
+- **Models used:** Maxwell, Voigt, Kelvin, generalized Voigt-Kelvin (Andre & Pinto, 2004)
+- Photodegradation affects activation energies and cross-linking, influencing creep rates
+- **Arutyunyan model** predicts time to creep rupture for viscoelastic polymers under UV:
+  - Includes initial stress, polymer viscosity, lateral strain coefficient, UV intensity effect
+
+## 6. Experimental Methods
+- **Multi-sample tensile creep testing apparatus:**
+  - Radial sample placement to minimize UV intensity variation
+  - Loads controlled independently via stepper motors
+  - Strain measured via clamp displacement
+  - Chamber purged with nitrogen to eliminate humidity/O₂ effects
+- **Sample preparation:**
+  - LARC™-CP1 spun-cast to 7 µm, cut with precision jig
+  - Widths: 4.32 mm, 6.35 mm; length: 29 mm
+- **UV irradiation:**
+  - 1000 W xenon-arc lamp simulating Mars UV
+  - Lamp spectra measured across radial positions; variation ±10–20%
+- **Temperature control:**
+  - Irradiated samples: 33 ± 4 °C
+  - Unirradiated samples matched short-term creep rates at 37 °C
+
+## 7. Results on LARC™-CP1
+- Creep rupture life decreases under UV; accelerated UV testing shows susceptibility
+- Some samples show brittle fracture with little tertiary creep → embrittlement likely due to crosslinking
+- Residual stresses: exposed side more damaged, sample curling observed
+- Mechanical loading + UV irradiation reduces lifespan more than UV or stress alone (Vershinina et al., 1964)
+- Temperature increase of ~20 °C slightly affects creep rupture but not enough to meet Mars mission lifespan requirements
+
+## 8. Design Implications for Greenhouses
+- Separate removable protective layer recommended (LARC™-CP1 laminated to FEP)
+- Thin to maintain PAR transmittance (0.80–0.86)
+- Can be replaced periodically to mitigate UV and dust degradation
+- Diffuse PAR favors greenhouse design over solar collectors
+- Optimal structural composite materials and life estimation require creep rupture data
+- Consideration for dust and abrasion protection: FEP can help protect LARC™-CP1 without significantly reducing PAR
+
+## 9. Conclusions
+- LARC™-CP1 is highly UV-resistant but still vulnerable to stress-accelerated degradation
+- Mars UV environment, particularly UVC/UVB, is a moderate threat to polymers over long durations
+- PAR availability is sufficient for greenhouse operations; dust storms can reduce availability 20% of the year
+- Accurate extrapolation of lab accelerated testing to Mars is speculative, but the data support further 
