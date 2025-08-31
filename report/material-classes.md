@@ -1,4 +1,4 @@
-### 2.1 Polymers
+### Polymers
 
 #### Mechanics of Light-Activated Self-Healing Polymer Networks (Yu, Xin, & Wang, 2019)
 - Optically healable TiO2 nanocomposite hydrogels
@@ -36,7 +36,7 @@
 - Optimized ratio for strength + autonomous repair
 - Multi-exponential time-dependent healing
 
-### 2.2 Composites & Laminates
+### Composites & Laminates
 
 #### Self-Healing Microvascular Fiber-Composites (Patrick et al., 2014)
 - Embedded 3D vascular networks
@@ -53,7 +53,7 @@
 - Mechanical cycling: preserves stiffness after repeated damage
 - Recovery via polymerization of monomers from fiber cores
 
-### 2.3 Coatings & Barrier Layers
+### Coatings & Barrier Layers
 
 #### Mars Suit Material Notes (Marcy et al., 2004)
 - EVOH, PET/EVOH, PTFE, PVDC layers as barriers
@@ -66,7 +66,7 @@
 - Coatings + fabrics: PDMS + PRC nanofibers restore interfacial adhesion
 - Limitations: large separations reduce self-healing
 
-### 2.4 Self-Healing & Photoresponsive Systems
+### Self-Healing & Photoresponsive Systems
 
 #### Summary included in Polymers section
 - Light-activated PU systems, azobenzene, coumarin, anthracene, o-NB, RhB
