@@ -679,7 +679,43 @@ This study demonstrates **multiple cycles of in situ delamination healing** in s
   - Inner liner, bladder, restraint layer folded around core; outer layers (MMOD, MLI, AO) folded as gore patterns  
   - Each layer individually attached to folded bladder/restraint layer for controlled deployment  
 
-# Candidate Integration for Self-Healing
+# Candidate Integration for Self-Healing (Lee et al., 2015)
 - **Bladder Layer:** Primary pressure containment; self-healing could prevent leaks  
 - **Restraint Layer:** Axial straps fail first; self-healing could extend structural life  
 - **MMOD Layer:** Outer layer; self-healing could repair minor hypervelocity damage  
+
+# Self-Healing Polymer Coatings & Composites – Key Findings
+
+## 1. Interface Adhesion Between Coatings and Fabrics/Composites
+- Self-healing PRC (PAN-resin-cure) nanofibers embedded in PDMS matrices restore adhesion after mechanical damage.
+- Polymerized PDMS acts as a “glue” adhering broken fibers to each other and the surrounding matrix.
+- Co-electrospun core-shell fibers maintain mechanical integrity and provide reinforcing interfacial layers.
+
+## 2. Delamination / Loss of Healing After Repeated Cycles
+- **Mechanical cycling tests** (tensile tests repeated up to four times) show:
+  - PAN (non-self-healing) mats: Young’s modulus drops ~90% after four cycles; catastrophic failure occurs.
+  - PRC mats: Young’s modulus drops ~30% after four cycles; stress-strain curves largely preserved.
+- PDMS composites with PRC fibers maintain or increase Young’s modulus (up to 1.4× after fourth cycle).
+- Self-healing occurs via resin monomer and cure released from broken fiber cores, polymerizing within micro-cracks.
+- Recovery requires ~24 h rest at room temperature for polymerization and property restoration.
+
+## 3. Case Studies / Aerospace-Relevant Applications
+- PRC nanofiber mats and composites simulate micro-crack accumulation in aerospace composites under periodic loading.
+- Healing mechanism restores stiffness and prevents catastrophic delamination during moderate strain (~15%).
+- Tensile tests up to catastrophic failure (~30% strain) show self-healing is limited when fiber sections separate too far.
+- 24 h recovery periods align with practical requirements for daily or periodic healing in aerospace structural materials.
+- Compatible PDMS matrix ensures reinforcement and adhesive restoration at ply surfaces.
+
+## 4. Material & Fabrication Notes
+- Core-shell nanofibers:
+  - Core A: resin monomer (dimethyl siloxane)
+  - Core B: cure (dimethyl-methyl hydrogen-siloxane)
+  - Shell: PAN (polyacrylonitrile)
+- Co-electrospinning produces mutually entangled nanofiber mats, embedded in PDMS to form composites.
+- Fiber diameters:
+  - PAN mat: 588 ± 135 nm
+  - PRC mat: resin fibers 1.32 ± 0.50 μm, cure fibers 373 ± 105 nm
+- Tensile testing regimes:
+  - I: Elastic
+  - II: Plastic
+  - III: Catastrophic failure
