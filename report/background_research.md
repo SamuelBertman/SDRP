@@ -657,3 +657,29 @@ This study demonstrates **multiple cycles of in situ delamination healing** in s
 - Herringbone vasculature promotes interpenetrating fluid interfaces → improved in situ mixing → higher mechanical recovery.
 - Fiber bridging in composites adds an additional energy absorption mechanism during repeated cycles.
 - Vascular architecture is critical: poor mixing reduces efficiency and shows localized chemical limitations
+
+# Inflatable Habitat Materials and Testing (Valle et al., 2019)
+
+| Layer / Component       | Materials Used                                           | Mechanical Properties / Notes                                                                                  | Failure Modes / Testing Insights                                                                 | Candidate for Self-Healing |
+|-------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------|
+| **Liner (inner)**       | Nomex, Kevlar felt                                      | Flame and puncture resistant, easy-to-clean, acoustic dampening                                              | No specific failure modes; protects bladder from crew damage                                      | Low – protective only      |
+| **Bladder (gas barrier)** | Combitherm, urethane-coated Nylon, Cepac® HD-200       | Flexible, durable, low permeability across temperature range, oversized for redundancy                        | Can leak if punctured; critical for pressure containment                                         | **High – pressure-critical** |
+| **Restraint Layer (structural)** | Kevlar, Vectran webbing (tight basket weave or sewn hoop) | Carries hoop and axial loads, flexible and foldable, factor of safety 4                                      | Axial straps fail first in creep-burst tests; non-uniform load and stitching affect TTF         | **High – structural-critical** |
+| **MMOD Layer**           | Nextel, open-cell polyurethane foam, Kevlar rear wall | Multi-material layup for hypervelocity impact protection, vacuum-packed for launch                             | Three failure modes in hypervelocity testing: damage to restraint only, both restraint and bladder, none | Medium – repair minor damage possible |
+| **Thermal Protection (TPS)** | Multi-layer insulation (MLI), Mylar + Kapton      | Passive temperature regulation                                                                                 | No specific failure modes mentioned                                                             | Low – passive insulation    |
+| **Atomic Oxygen (AO) Protection** | Betaglass                                       | Protects materials from LEO atomic oxygen degradation                                                        | AO exposure can discolor Kevlar, minimal structural effect                                       | Medium – outer layer repair potential |
+
+# Key Mechanical / Testing Notes
+- **Module-Level Creep-Burst Testing:**  
+  - 1/3 scale TransHab module, 6,000 lb/in axial straps, 12,500 lb/in hoop straps  
+  - Test pressure: 145 psig (74% of burst), axial straps failed in 49 min, hoop straps intact  
+  - Module-level creep life is reduced vs. strap-level; stitching/weaving affects performance  
+
+- **Folding / Deployment:**  
+  - Inner liner, bladder, restraint layer folded around core; outer layers (MMOD, MLI, AO) folded as gore patterns  
+  - Each layer individually attached to folded bladder/restraint layer for controlled deployment  
+
+# Candidate Integration for Self-Healing
+- **Bladder Layer:** Primary pressure containment; self-healing could prevent leaks  
+- **Restraint Layer:** Axial straps fail first; self-healing could extend structural life  
+- **MMOD Layer:** Outer layer; self-healing could repair minor hypervelocity damage  
