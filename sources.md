@@ -37,3 +37,5 @@
 18. Luu, T.T.H., Jia, Z., Kanaev, A., Museur, L., Effect of Light Intensity on the Free Radical Photopolymerization Kinetics of 2-Hydroxyethyl Methacrylate (HEMA): Experiments and Simulations, Laboratoire de Physique des Lasers CNRS UMR 7538 & Laboratoire des Sciences des Procédés et des Matériaux CNRS UPR 3407, Université Sorbonne Paris Nord, 2020
 
 19. Patrick, J.F., Hart, K.R., Krull, B.P., et al. (2014). *Continuous self-healing life cycle in vascularized structural composites*. Advanced Materials, 26, 4302–4308. DOI: [10.1002/adma.201400248](https://doi.org/10.1002/adma.201400248)
+
+20. Valle, G., Litteken, D., & Jones, T.C. (2019). Review of habitable softgoods inflatable design, analysis, testing, and potential space applications. AIAA Scitech 2019 Forum, San Diego, CA. https://doi.org/10.2514/6.2019-1018
