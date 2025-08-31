@@ -422,3 +422,27 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
 - Mars UV environment, particularly UVC/UVB, is a moderate threat to polymers over long durations
 - PAR availability is sufficient for greenhouse operations; dust storms can reduce availability 20% of the year
 - Accurate extrapolation of lab accelerated testing to Mars is speculative, but the data support further 
+
+# Notes on: Outgassing Effect in Polymeric Composites Exposed to Space Environment (Pastore et al., 2020) 
+
+## 1. Effects of CO₂ atmosphere on polymer chain stability and oxidation
+- Focus is only on **hard vacuum** (10⁻⁵ mbar and below) + thermal cycling.
+- FT-IR shows chemical modifications in polymer chains due to outgassing.
+- **No CO₂ chemistry or oxidation studied.**
+
+## 2. Data on swelling, cracking, or outgassing under low pressures (~6 mbar)
+- Outgassing tested at **10⁻⁵ mbar** (more extreme than 6 mbar Martian CO₂).
+- Key findings:
+  - Outgassing = release of residual monomers, additives, adsorbed gases.
+  - Leads to **structural depletion** and possible **micro-defects/cracking**.
+  - Outgassing strongly enhanced above **100 °C**.
+- No explicit **swelling data**, but depletion implies swelling/cracking risk under cycling.
+
+## 3. Relevance to sealing/coating layers in habitats
+- Outgassing compromises **long-term stability of sealing polymers**, increasing permeability.
+- Contamination risk: condensed volatiles may affect **solar panels, optics, habitat windows, coatings**.
+- Results by material type:
+  - **CF-epoxy**: stable, within limits → good candidate.
+  - **GF-epoxy**: borderline → acceptable with **thermal pre-conditioning**.
+  - **KF-epoxy**: excessive volatile loss → **not acceptable**.
+- Implies **thermal bake-out pre-treatment** may be required for sealing/coating layers.
