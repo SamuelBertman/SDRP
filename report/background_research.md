@@ -719,3 +719,34 @@ This study demonstrates **multiple cycles of in situ delamination healing** in s
   - I: Elastic
   - II: Plastic
   - III: Catastrophic failure
+
+# Self-Healing Polyurethane Elastomers (Fang et al., 2024)
+
+## Quantitative Trade-Offs Between Toughness and Healing Efficiency
+- Increasing UPy (quadruple hydrogen bond) content improves mechanical strength and toughness.
+- Higher UPy content decreases healing efficiency due to constrained chain mobility.
+- Healing efficiency and mechanical properties quantified:
+  - Example: PU-B0.6U0.4 → Ultimate stress: 27.4 MPa, Healing efficiency: 90%
+- Time-dependent healing modeled with multi-exponential contributions:
+  - η = η0 + η1 (1 - e^(-t/t1)) + η2 (1 - e^(-t/t2))
+    - η0: momentary self-healing (common H-bonds)
+    - η1: quadruple H-bonds contribution
+    - η2: boronic ester contribution
+    - t1, t2: characteristic time constants for respective processes
+
+## Optimal Compositions for High Strength and Autonomous Repair
+- PU elastomer with boronic ester : UPy ratio of 0.4 : 0.6 balances strength and healing.
+- UPy dimers act as sacrificial modules to dissipate energy under stress → improved mechanical performance.
+- Boronic esters provide chain mobility → enhanced healing.
+- Mechanical performance metrics:
+  - Ultimate stress, Young’s modulus, modulus at 300% strain, toughness all increase with UPy content until optimal balance reached.
+- Stress relaxation and rheology show stronger networks with higher UPy, slower relaxation rates, and prolonged healing times.
+
+## Mechanistic Insights
+- Synergistic effect of quadruple H-bonds (UPy) and boronic ester bonds:
+  - H-bonds: energy dissipation and mechanical reinforcement
+  - Boronic esters: dynamic exchange for healing
+- Sequential loading-unloading cycles reveal energy dissipation mechanism.
+- Dynamic mechanical analysis: storage modulus (E') and tan δ increase with UPy content.
+- Thermal effects: H-bond dissociation at elevated temperatures; boronic ester exchanges activated by heat.
+- Healing efficiency increases with healing time and temperature.
