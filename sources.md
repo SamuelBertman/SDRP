@@ -23,3 +23,5 @@
 11. Pernigoni, L., Lafont, U., & Grande, A. M. (2021). Self-healing materials for space applications: Overview of present development and major limitations. CEAS Space Journal. https://doi.org/10.1007/s12567-021-00365-5
 
 12. Clawson, J. M. (2007). Feasibility of a Mars Surface Inflatable Greenhouse: Availability of Photosynthetic Irradiance and the Durability of Transparent Polymer Films (Doctoral dissertation, University of Colorado, Boulder, CO)
+
+13. Pastore, R., Delfini, A., Albano, M., Vricella, A., Marchetti, M., Santoni, F., & Piergentili, F. (2020). Outgassing effect in polymeric composites exposed to space environment thermal-vacuum conditions. Acta Astronautica. https://doi.org/10.1016/j.actaastro.2020.02.019
