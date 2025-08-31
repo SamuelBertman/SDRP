@@ -505,3 +505,29 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
 - **Concentration-dependent biodegradation:**
   - Low polymer concentration (0.006%): `54–64%` degradation.
   - High concentration (0.05%): `28–34%` degradation.
+
+# Mars-Relevant Light-Responsive Polyurethane Systems (Li et al., 2017; Zhang et al., 2017; Aguirresarobe et al., 2016)
+
+## Absorption Maxima & Spectral Windows
+| System | Light Wavelength (nm) | Other Stimuli | Observed Response |
+|--------|----------------------|---------------|-----------------|
+| Azobenzene (AZO) | 365 | Heat 50-80°C, pH acidic | Trans-cis isomerization, color change, swelling control |
+| Spiropyran (SP) | 365 | Visible/dark, force | Ring opening to MC, stretch color change |
+| Coumarin-PU | 365, <300 | pH (micelles) | [2+2] cycloaddition, photocleavage, crosslinking, drug release |
+| Anthracene-PU | >300, <300 | Heat >120°C | [4+4] cycloaddition, reversible crosslinking, self-healing |
+| o-Nitrobenzyl (o-NB) PU | 320-480 | None | Irreversible photocleavage, amine release, rapid drug release (~20s) |
+| Rhodamine B (RhB) PU | 365 | Heat 60-80°C | Reversible photochromism, shape memory |
+
+## Light-Induced Reactions
+- **Photocleavage**
+- o-NB: irreversible, releases functional groups, fast drug release
+- Dithiocarbamate (LBCL): reversible, initiates secondary radical polymerization → self-healing + crosslinking
+- **Photodimerization / Reversible Crosslinking**
+- Coumarin: [2+2] cycloaddition (UV 365 nm), photocleavage (<300 nm)
+- Anthracene: [4+4] cycloaddition (UV >300 nm), reversible with heat (>120°C)
+
+## Applications
+- Drug delivery: Coumarin- and o-NB-based PU micelles for targeted release
+- Shape memory and self-healing: RhB-PU, Anthracene-PU, SP-PU
+- Sensors: AZO-PU for pH and light changes
+- Coatings: UV-curable PU acrylates, PU/MWCNT composites for mechanical reinforcement and photoresponsive properties
