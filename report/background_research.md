@@ -807,3 +807,21 @@ This study demonstrates **multiple cycles of in situ delamination healing** in s
 - Evaluates effects of polymer backbones and temperature
 - Foundation for macroscopic property predictions (tensile tests, glass transition)
 - Full forward DA network simulations and experimental benchmarking needed for complete validation
+
+# Summary of MD Photon-Coupling Literature (Zheng et al., 2018)
+
+This document summarizes findings regarding methods for photon energy coupling in molecular dynamics (MD), simplifications used, and wavelength-dependent activation.
+
+## Methods for Coupling Photon Energy to MD
+- UV light triggers cleavage of labile bonds in polyurethane, initiating polymerization. Light is treated as a uniform stimulus.
+- In MAPLE, laser ablation of the matrix indirectly transfers energy to polymers, ejecting clusters or droplets. MD models treat this as material ejection rather than direct photon interactions.
+
+## Simplifications Used in MD
+- Light is treated as a uniform trigger; all reactive sites are potentially activated.
+- Bond formation occurs if active sites are within a cutoff distance (e.g., 5.5 Å).
+- Multi-step crosslink-relaxation cycles simulate polymerization kinetics, with NVT/NPT relaxation after each cycle.
+- Explicit photon-material interactions are ignored; energy input is modeled via simplified triggers like distance-based reactions or uniform bond activation.
+
+## Wavelength-Dependent Activation in MD
+- UV light at 365 nm is used to cleave labile bonds in the polyurethane network.
+- Simulations assume uniform light exposure; the effect of varying wavelength is not directly modeled, tho
