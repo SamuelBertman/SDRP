@@ -531,3 +531,54 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
 - Shape memory and self-healing: RhB-PU, Anthracene-PU, SP-PU
 - Sensors: AZO-PU for pH and light changes
 - Coatings: UV-curable PU acrylates, PU/MWCNT composites for mechanical reinforcement and photoresponsive properties
+
+# Self-Healing Polymer Bilayer Films (PBFs) (Kim et al., 2020)
+
+## Materials and Composition
+- **Bottom layer:** Colorless polyimide (CPI)
+- **Top layer:** Polydimethylsiloxane (PDMS) embedded with linseed oil microcapsules (LOMC)
+- **Optimal LOMC content:** 5 wt% for effective self-healing
+
+## Mechanism of Self-Healing
+- Healing occurs when cracks rupture LOMC, releasing linseed oil (LO)
+- LO reacts with environmental factors (air, moisture, temperature, UV) to fill cracks and polymerize
+- UV-light triggers photochemical-induced drying, rapidly solidifying LO and completing healing
+
+## Multi-Stimuli Response
+- **Air:** Slow healing under ambient conditions
+- **Moisture (70% RH):** Gradual healing observed
+- **Heat (70°C):** Partial healing within 20 min
+- **UV-Light (1.2 kW Hg lamp, 30 cm):** Complete healing within 20 min
+
+## Healing Performance
+- **UV-light irradiation (20 min, 5 wt% LOMC)**
+  - Fracture stress recovery: ~91%
+  - Fracture strain recovery: ~85%
+  - Toughness recovery: ~71%
+- Strong interfacial adhesion between CPI and PDMS maintained during tensile tests
+- Viscoelastic properties (storage modulus E′, tan δ) remain nearly identical after healing
+
+## Optical and Barrier Properties
+- PBFs remain highly transparent and colorless
+- Water vapor permeability after UV-light healing: 35.4 g/m²/day
+- Effective in blocking ingress of oxygen and water molecules
+
+## Fabrication Notes
+- LOMC prepared via poly(urea-formaldehyde) in-situ polymerization
+- Particle size controlled by agitation speed (optimal: 1500 rpm → 108 μm average diameter)
+- CPI synthesized via two-step imidization (BAPS + 6FDA)
+- PBF assembled using layer-by-layer spin coating of PDMS + LOMC onto CPI
+
+## Characterization Techniques
+- SEM, OM, and 3D micro-CT imaging for morphology and healing observation
+- FTIR for chemical monitoring of LO release and polymerization
+- TGA for thermal stability
+- DMA for viscoelastic properties
+- Tensile testing for mechanical recovery
+- UV-Vis and colorimetry for optical properties
+- Contact angle and surface energy for adhesion and wettability
+
+## Key Takeaways
+- PBF 5 wt% exhibits rapid, mono-component, multi-stimuli self-healing
+- UV-light is particularly effective for fast photochemical healing
+- System is catalyst-free, transparent, mechanically robust, and commercially promising for flexible electronics
