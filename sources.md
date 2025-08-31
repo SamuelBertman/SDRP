@@ -41,3 +41,5 @@
 20. Valle, G., Litteken, D., & Jones, T.C. (2019). Review of habitable softgoods inflatable design, analysis, testing, and potential space applications. AIAA Scitech 2019 Forum, San Diego, CA. https://doi.org/10.2514/6.2019-1018
 
 21. Lee, M. W., An, S., Jo, H. S., Yoon, S. S., & Yarin, A. L. (2015). Self-healing nanofiber-reinforced polymer composites: Tensile testing and recovery of mechanical properties. ACS Applied Materials & Interfaces. https://doi.org/10.1021/acsami.5b05998
+
+22. Fang, S., Zeng, W., Liu, L., Lyu, Y., Dong, F., Wan, L., Liu, Y., & Du, A. (2024). Shifting the mechanical strength-healing efficiency trade-off of polyurethanes by incorporating boronic ester bonds and hydrogen bonding. European Polymer Journal, 206, 112776. https://doi.org/10.1016/j.eurpolymj.2024.112776
