@@ -582,3 +582,46 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
 - PBF 5 wt% exhibits rapid, mono-component, multi-stimuli self-healing
 - UV-light is particularly effective for fast photochemical healing
 - System is catalyst-free, transparent, mechanically robust, and commercially promising for flexible electronics
+
+# Photopolymerization Kinetics (Luu et al., 2020)
+
+## System Studied
+- Photopolymerization of multifunctional monomers
+- BAPO photoinitiator under UV irradiation (λ = 355 nm)
+- Sample thickness: 250 µm
+- Temperature: 25 °C
+- Photoinitiator concentration: 0.0256 M
+
+## Light Intensity Conditions
+- Range: 0.01 – 3 mW/cm²
+- Measured:
+  - Conversion yield (CY)
+  - Rate of polymerization (Rp)
+  - Macroradical concentration
+
+## Dose–Response Relationships
+- Rp and CY increase with light intensity
+- Higher UV dose → faster polymerization → higher conversion in given time
+- Low intensities (0.01–0.1 mW/cm²) → significant reduction in polymerization rate
+- Macroradical concentration and formation rates ∝ light intensity
+
+## Threshold Values
+- Very low light intensities show delayed initiation and slow propagation
+- Indicates a minimum intensity threshold required for effective polymerization
+- Dark polymerization after UV exposure allows reaction to continue at low dose
+
+## Kinetic Modeling Insights
+- Polymerization divided into four regimes:
+  1. Normal polymerization (no diffusion limitation)
+  2. Autoacceleration (termination partially diffusion-controlled)
+  3. Reaction-diffusion (kp and kt affected by diffusion)
+  4. Autodeceleration (propagation diffusion-limited, termination still reaction-diffusion controlled)
+- Rate constants kp and kt depend on UV intensity
+- Reaction-diffusion proportionality constants (rdRpA, f_cp, f_ct) estimated from conversion data
+- Quantitative dependence on UV dose confirmed
+
+## Key Takeaways
+- Clear dose–response relationship: faster polymerization and higher conversion at higher light intensity
+- Threshold behavior apparent at low-intensity conditions
+- Provides quantitative rate constants and radical concentrations
+- Data could be extrapolated to weaker UV sources (e.g., solar or Mars-equivalent)
