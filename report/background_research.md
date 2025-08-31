@@ -625,3 +625,35 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
 - Threshold behavior apparent at low-intensity conditions
 - Provides quantitative rate constants and radical concentrations
 - Data could be extrapolated to weaker UV sources (e.g., solar or Mars-equivalent)
+
+# Self-Healing Microvascular Fiber-Composites (Patrick et al., 2014)
+
+## Overview
+This study demonstrates **multiple cycles of in situ delamination healing** in structural fiber-reinforced composites using **microvascular delivery of reactive fluids**. Three-dimensional vascular networks are embedded in the composite, allowing repeated healing with **no degradation of inherent fracture properties**.
+
+## Key Findings
+
+### 1. Maximum Number of Healing Cycles
+- Tested up to **three consecutive healing cycles** in the herringbone (interpenetrating) vascular network.
+- **Healing efficiency exceeded 100%** in some cases due to enhanced polymerization at the fracture surface.
+- Parallel (isolated) vascular networks showed lower recovery, especially in later cycles.
+
+### 2. Degradation Behavior
+- Healing efficiency is **threshold-dependent and localized**, not strictly linear or exponential.
+  - Well-mixed regions (herringbone network) fully recover or exceed virgin fracture toughness.
+  - Poorly mixed regions (parallel network) show incomplete polymerization and reduced efficiency.
+- **Raman spectroscopy** revealed stoichiometry-dependent polymerization:
+  - Near-target R:H ratio (2:1) → full recovery.
+  - Under-stoichiometric (≈1.5:1) → partial recovery.
+- Indicates **local chemical availability controls degradation/recovery**, consistent with a threshold-based mechanism.
+
+### 3. Crosslink Density / Bond Exhaustion
+- **Confocal Raman and fluorescent imaging** measured the chemical state of healed fracture interfaces.
+  - Regions with multiple cycles show polymerization of epoxy (oxirane consumption), confirming bond formation.
+  - Regions near the terminal crack front had partially polymerized material, indicating **progressive bond exhaustion** in areas of limited mixing.
+- No absolute crosslink density values reported, but chemical mapping provides **direct evidence of bond availability limits across cycles**.
+
+## Mechanistic Insights
+- Herringbone vasculature promotes interpenetrating fluid interfaces → improved in situ mixing → higher mechanical recovery.
+- Fiber bridging in composites adds an additional energy absorption mechanism during repeated cycles.
+- Vascular architecture is critical: poor mixing reduces efficiency and shows localized chemical limitations
