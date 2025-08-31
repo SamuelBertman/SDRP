@@ -30,6 +30,8 @@
 
 15. Corti, A., et al. *Polymer Degradation and Stability*, 95 (2010), 1106–1114. https://doi.org/10.1016/j.polymdegradstab.2010.02.018
 
-16. Lam, K.Y., Lee, C.S., Tan, R.Y.H., 2022. Light-responsive polyurethanes: classification of light-responsive moieties, light-responsive reactions, and their applications. *RSC Advances*, DOI: 10.1039/d2ra01506d.
+16. Lam, K.Y., Lee, C.S., Tan, R.Y.H., 2022. Light-responsive polyurethanes: classification of light-responsive moieties, light-responsive reactions, and their applications. *RSC Advances*, DOI: 10.1039/d2ra01506d
 
 17. Kim, Y., Nam, K.-H., Jung, Y.C., Han, H., 2020. Interfacial adhesion and self-healing kinetics of multi-stimuli responsive colorless polymer bilayers. Composites Part B 203, 108451. https://doi.org/10.1016/j.compositesb.2020.108451
+
+18. Luu, T.T.H., Jia, Z., Kanaev, A., Museur, L., Effect of Light Intensity on the Free Radical Photopolymerization Kinetics of 2-Hydroxyethyl Methacrylate (HEMA): Experiments and Simulations, Laboratoire de Physique des Lasers CNRS UMR 7538 & Laboratoire des Sciences des Procédés et des Matériaux CNRS UPR 3407, Université Sorbonne Paris Nord, 2020
