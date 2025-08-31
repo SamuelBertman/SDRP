@@ -43,3 +43,5 @@
 21. Lee, M. W., An, S., Jo, H. S., Yoon, S. S., & Yarin, A. L. (2015). Self-healing nanofiber-reinforced polymer composites: Tensile testing and recovery of mechanical properties. ACS Applied Materials & Interfaces. https://doi.org/10.1021/acsami.5b05998
 
 22. Fang, S., Zeng, W., Liu, L., Lyu, Y., Dong, F., Wan, L., Liu, Y., & Du, A. (2024). Shifting the mechanical strength-healing efficiency trade-off of polyurethanes by incorporating boronic ester bonds and hydrogen bonding. European Polymer Journal, 206, 112776. https://doi.org/10.1016/j.eurpolymj.2024.112776
+
+23. Vermeersch, L., Wang, T., Van den Brande, N., De Vleeschouwer, F., & van Duin, A. C. T. (2024). Computational insights into tunable reversible network materials: Accelerated ReaxFF kinetics of furan-maleimide Diels−Alder reactions for self-healing and recyclability. J. Phys. Chem. A, 128, 10431–10439. https://doi.org/10.1021/acs.jpca.4c05470
