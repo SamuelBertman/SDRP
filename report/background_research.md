@@ -446,3 +446,20 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
   - **GF-epoxy**: borderline → acceptable with **thermal pre-conditioning**.
   - **KF-epoxy**: excessive volatile loss → **not acceptable**.
 - Implies **thermal bake-out pre-treatment** may be required for sealing/coating layers.
+
+# Mars Suit Material Notes – Environmental Considerations (Marcy et al., 2004)
+
+## Effects of CO₂ Atmosphere
+- EVOH (ethylene-vinyl alcohol copolymer) selected for the pressure/bladder layer due to excellent gas barrier properties.
+- PET/EVOH co-extrusion used in insulation layers to reduce CO₂ permeation.
+- PTFE and silicone elastomers chosen for chemical stability and resistance to oxidation in harsh environments.
+
+## Low-Pressure Behavior (~6–7 mbar)
+- PVDC coatings applied to nylon layers to prevent moisture absorption and protect against vacuum effects.
+- Nylon scrim layers in insulation allow relative slip, accommodating thermal expansion and contraction.
+- Multi-layer laminates (e.g., PET, aluminized polyester) provide structural and barrier support under low-pressure conditions.
+
+## Relevance to Sealing/Coating Layers
+- EVOH, PET/EVOH, PTFE, and PVDC layers serve as effective barriers to gases, moisture, UV, and chemicals.
+- Barrier layers are compatible with adjacent materials and contribute to overall structural and environmental protection.
+- Multi-layer approach (barrier + structural + dampening layers) ensures cumulative protection and could inform ha
