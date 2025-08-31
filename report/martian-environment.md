@@ -1,4 +1,4 @@
-### 1.1 Radiation
+### Radiation
 
 #### Mars UV Spectrum Overview (Patel et al., 2002)
 - UV Range: 190–410 nm
@@ -19,7 +19,7 @@
 #### Selection Objective
 - Light-activated self-healing polymer needs to survive UV flux
 
-### 1.2 Atmosphere & Low Pressure
+### Atmosphere & Low Pressure
 
 #### Martian Environmental Parameters for Simulation (Amils et al., 2007)
 - Low temperature: −35°C
@@ -36,7 +36,7 @@
 - PET/EVOH co-extrusions, PTFE, PVDC coatings
 - Multi-layer laminates protect against low pressure
 
-### 1.3 Temperature Extremes & Thermal Cycling
+### Temperature Extremes & Thermal Cycling
 
 #### Martian Environmental Parameters for Simulation (Amils et al., 2007)
 - Low temperature: −35°C
@@ -57,7 +57,7 @@
 #### Self-Healing Materials for Space Applications (Pernigoni et al., 2021)
 - Thermal cycling range −120 °C to +120 °C can induce cracking, deformation, aging
 
-### 1.4 Micrometeoroid Impacts
+### Micrometeoroid Impacts
 
 #### High Survivability of Micrometeorites on Mars (Tomkins et al., 2019)
 - Mars: lower energy collisions but more frequent, higher particle survival
