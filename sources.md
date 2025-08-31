@@ -31,3 +31,5 @@
 15. Corti, A., et al. *Polymer Degradation and Stability*, 95 (2010), 1106–1114. https://doi.org/10.1016/j.polymdegradstab.2010.02.018
 
 16. Lam, K.Y., Lee, C.S., Tan, R.Y.H., 2022. Light-responsive polyurethanes: classification of light-responsive moieties, light-responsive reactions, and their applications. *RSC Advances*, DOI: 10.1039/d2ra01506d.
+
+17. Kim, Y., Nam, K.-H., Jung, Y.C., Han, H., 2020. Interfacial adhesion and self-healing kinetics of multi-stimuli responsive colorless polymer bilayers. Composites Part B 203, 108451. https://doi.org/10.1016/j.compositesb.2020.108451
