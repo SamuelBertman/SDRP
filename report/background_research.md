@@ -750,3 +750,60 @@ This study demonstrates **multiple cycles of in situ delamination healing** in s
 - Dynamic mechanical analysis: storage modulus (E') and tan δ increase with UPy content.
 - Thermal effects: H-bond dissociation at elevated temperatures; boronic ester exchanges activated by heat.
 - Healing efficiency increases with healing time and temperature.
+
+# Reactive Molecular Dynamics Notes (Vermeersch et al., 2024)
+
+## Force Fields Validated for Light-Activated/Dynamic Covalent Systems
+- ReaxFF
+  - Applied to reversible Diels–Alder (DA) reactions in covalent adaptable networks (CANs)
+  - Trained against DFT to reproduce forward/reverse activation barriers and reaction energies
+  - Can include polymer backbone effects without reparametrization
+  - Tracks bond formation and bond breaking using bond orders
+
+## Simulation Methods & Accuracy Considerations
+- Bond Boost Method
+  - Accelerates rare bond-breaking events to overcome timescale mismatch
+  - Uses F1 and F2 force parameters to tune energy added to specific bonds
+  - Maintains stereoselectivity in endo/exo reactions
+- Stereoselectivity
+  - Endo/exo ratios sensitive to F1 parameter and temperature
+  - F1 = 95 gives balanced speed and stereoselectivity
+- Polymer Backbone Effects
+  - Side chains affect local sterics and reaction kinetics
+  - Simulated with smaller representative systems for feasibility
+- Temperature Effects
+  - Higher temperatures increase successful bond-breaking events
+  - Lowers stereoselectivity
+  - ReaxFF captures thermoreversible behavior accurately
+
+## Limitations
+- Computational Cost
+  - 700 ps simulation ≈ 96 CPU hours for 40 molecules
+  - Larger polymer systems require shorter simulation times
+- Timescale Mismatch
+  - Experimental self-healing occurs over hours; simulations cover nanoseconds
+  - Bond boost required to bridge timescale gap
+- Accuracy
+  - Forward/reverse reaction barriers reproduced within ~0.4 kcal/mol of DFT
+  - Endo/exo ratio deviations small
+  - Polymer backbone addition does not require reparametrization, but full network simulations still needed
+
+## Key Quantitative Observations
+- Endo/Exo Ratios vs F1 Force Factor
+  - F1 = 90 → high stereoselectivity, few successful events
+  - F1 = 95 → optimal balance
+  - F1 > 130 → all bond boosts successful, stereoselectivity lost
+- Temperature Dependence
+  - 300 K → endo/exo ≈ 7 (50% endo decomposition)
+  - 500 K → endo/exo ≈ 3 (50% endo decomposition)
+- Reaction Barriers (kcal/mol)
+  | Reaction | Forward | Reverse | ΔE |
+  |----------|---------|---------|----|
+  | Endo     | 18.9    | 28.1    | -9.3 |
+  | Exo      | 19.1    | 30.8    | -11.7 |
+
+## Conclusion / Future Work
+- ReaxFF + bond boost provides accurate kinetics and stereoselectivity predictions for reversible DA reactions in polymers
+- Evaluates effects of polymer backbones and temperature
+- Foundation for macroscopic property predictions (tensile tests, glass transition)
+- Full forward DA network simulations and experimental benchmarking needed for complete validation
