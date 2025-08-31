@@ -463,3 +463,45 @@ Crystallinity could enhance mechanical stability and healing efficiency at low t
 - EVOH, PET/EVOH, PTFE, and PVDC layers serve as effective barriers to gases, moisture, UV, and chemicals.
 - Barrier layers are compatible with adjacent materials and contribute to overall structural and environmental protection.
 - Multi-layer approach (barrier + structural + dampening layers) ensures cumulative protection and could inform ha
+
+# PE-LLD Degradation Under Multiple Stressors (Corti et al., 2010)
+
+## Simultaneous Stressors & Synergy
+- Agricultural **PE-LLD mulch films** with pro-oxidants tested under:
+  - Sunlight → fungal incubation → thermal aging (45 °C).
+- **COi increase:**
+  - Test (pre-oxidized) films: `0.0096 COi/day`
+  - Controls: `0.0068 COi/day`
+  - → ~20% higher oxidation rate in pre-oxidized vs. pristine films.
+- **Respirometry:**  
+  - Pre-oxidized films showed **much higher CO₂ production** than controls.  
+  - Both had equal glucose → fungi were metabolizing **oxidation products** as an extra carbon source.
+
+## Evidence of Biotic + Abiotic Synergy
+- **FT-IR:** Stronger peaks for `C=O`, `C=C`, `OH` groups **only** in pre-oxidized + fungal films → fungi enhanced breakdown of oxidation products.
+- **TGA:** Pre-oxidized + fungal films showed:
+  - Lower thermal stability.
+  - Onset degradation temp drop + ~2% early weight loss.
+- **DSC:** Higher crystallinity in pre-oxidized + fungal films → fungi consumed low-molecular-weight oxidized fractions, leaving more ordered crystalline residues.
+- **GC–MS (literature comparison):**
+  - Many small molecules (carboxylic acids, short-chain organics) formed during abiotic oxidation **disappeared** after biotic treatment.
+  - Confirms microbes actively metabolized degradation products.
+
+## Performance Differences vs. Single-Stressor Tests
+- **Sunlight only:** Generates oxidation products (hydroperoxides, ketones, aldehydes, carboxyls).
+- **Fungi only:** No significant degradation of pristine PE.
+- **Thermal only (low T):** Slow oxidation, insufficient for biodegradation.
+- **Combination (UV + thermal + fungal):**
+  - Faster COi growth (~20%).
+  - Higher CO₂ evolution.
+  - Lower TON in TGA.
+  - Stronger chemical/structural changes in FT-IR + DSC.
+  - → Clear evidence of **synergistic acceleration**.
+
+## Acceleration Factors / Quantitative Notes
+- `~20%` faster oxidation rate (COi/day) in oxidized vs. control films.
+- **CO₂ evolution:** Higher in oxidized + fungal samples (not quantified, but “remarkably elevated”).
+- **Thermal onset degradation temp:** Decreased (exact °C drop not given here; sunlight-only data showed ~`119 °C` reduction).
+- **Concentration-dependent biodegradation:**
+  - Low polymer concentration (0.006%): `54–64%` degradation.
+  - High concentration (0.05%): `28–34%` degradation.
