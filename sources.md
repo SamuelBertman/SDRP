@@ -45,3 +45,5 @@
 22. Fang, S., Zeng, W., Liu, L., Lyu, Y., Dong, F., Wan, L., Liu, Y., & Du, A. (2024). Shifting the mechanical strength-healing efficiency trade-off of polyurethanes by incorporating boronic ester bonds and hydrogen bonding. European Polymer Journal, 206, 112776. https://doi.org/10.1016/j.eurpolymj.2024.112776
 
 23. Vermeersch, L., Wang, T., Van den Brande, N., De Vleeschouwer, F., & van Duin, A. C. T. (2024). Computational insights into tunable reversible network materials: Accelerated ReaxFF kinetics of furan-maleimide Diels−Alder reactions for self-healing and recyclability. J. Phys. Chem. A, 128, 10431–10439. https://doi.org/10.1021/acs.jpca.4c05470
+
+24. Zheng, X., et al., 2018, Molecular dynamics simulations on self-healing behavior of photo-polymerization network, Smart Mater. Struct. 27, 105013
