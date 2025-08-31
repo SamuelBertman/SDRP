@@ -39,3 +39,5 @@
 19. Patrick, J.F., Hart, K.R., Krull, B.P., et al. (2014). *Continuous self-healing life cycle in vascularized structural composites*. Advanced Materials, 26, 4302–4308. DOI: [10.1002/adma.201400248](https://doi.org/10.1002/adma.201400248)
 
 20. Valle, G., Litteken, D., & Jones, T.C. (2019). Review of habitable softgoods inflatable design, analysis, testing, and potential space applications. AIAA Scitech 2019 Forum, San Diego, CA. https://doi.org/10.2514/6.2019-1018
+
+21. Lee, M. W., An, S., Jo, H. S., Yoon, S. S., & Yarin, A. L. (2015). Self-healing nanofiber-reinforced polymer composites: Tensile testing and recovery of mechanical properties. ACS Applied Materials & Interfaces. https://doi.org/10.1021/acsami.5b05998
