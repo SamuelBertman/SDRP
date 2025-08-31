@@ -29,3 +29,5 @@
 14. Marcy, J.L., Shalanski, A.C., Yarmuch, M.A.R., & Patchett, B.M. (2004). Material Choices for Mars. Journal of Materials Engineering and Performance, 13(2), 208–217. https://doi.org/10.1361/10599490418479
 
 15. Corti, A., et al. *Polymer Degradation and Stability*, 95 (2010), 1106–1114. https://doi.org/10.1016/j.polymdegradstab.2010.02.018
+
+16. Lam, K.Y., Lee, C.S., Tan, R.Y.H., 2022. Light-responsive polyurethanes: classification of light-responsive moieties, light-responsive reactions, and their applications. *RSC Advances*, DOI: 10.1039/d2ra01506d.
