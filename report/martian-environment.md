@@ -1,72 +1,68 @@
-## Martian Environmental Parameters for Simulation (Amils et al., 2007)
+### 1.1 Radiation
 
-A baseline of important factors of Martian conditions was found from current research (see `sources.md`), out of the provided conditions, the following conditions were selected for the Martian simulation environment:
+#### Mars UV Spectrum Overview (Patel et al., 2002)
+- UV Range: 190–410 nm
+- Dust effects: High dust loading reduces direct UV, but diffuse UV remains sufficient for light-triggered materials
+- UV Flux: UV-A/B reliably available; UV-C rare
+- Biological significance: UV-C highly damaging but uncommon
+- Effect on light-triggering: diffuse UV may activate materials
 
-- **Low Temperature**: -35°C
-- **Oxidation**: perchlorates in soil, chemical degradation.
-- **Radiation Exposure**: Estimated solar UV flux, particularly UVA/UVB relevant to photoinitiators.
-- **Micrometeoroid Events**: Incorporated using probabilistic models from MRO data.
+#### Mars Environmental Parameters for Simulation (Amils et al., 2007)
+- Radiation exposure: Estimated solar UV flux, UVA/UVB relevant to photoinitiators
+- Rationale: Most probable condition affecting polymer
 
-### Rationale
+#### Mars Greenhouse Material Notes (Clawson, 2007)
+- Mars UV intense in UVB (280–315 nm) and UVC (200–280 nm)
+- Accelerated lab tests: UV flux multiplied 2–7×
+- UV stress combined with mechanical loading accelerates polymer degradation
 
-These factors were chosen because they are the most probable environmental conditions to effect the polymer.
+#### Selection Objective
+- Light-activated self-healing polymer needs to survive UV flux
 
-## Data Input for Each Factor
+### 1.2 Atmosphere & Low Pressure
 
-### Low Temperature
-- **POLYMER**
-  - Glass transition temperature (Tg)
-  - Tensile strength, flexibility
-  - Thermal contraction coefficients
-- **MARS**
-  - -35°C
+#### Martian Environmental Parameters for Simulation (Amils et al., 2007)
+- Low temperature: −35°C
+- Oxidation: perchlorates in soil, chemical degradation
+- Micrometeoroid events included
 
-### Radiation Exposure
-- **POLYMER**
-  - UV absorption spectra of the polymer
-  - Rate of photodegradation by UVA/UVB
-- **MARS**
-  - Activation efficiency of photoinitiators under Martian UV flux
+#### Notes on Outgassing (Pastore et al., 2020)
+- Hard vacuum (10⁻⁵ mbar) + thermal cycling causes polymer chain modifications
+- Outgassing releases residual monomers/additives → micro-defects
+- Thermal bake-out may improve sealing layer performance
 
-### Micrometeoroid Events
-- **POLYMER**
-  - Self-healing response time after micrometeoroid damage
-  - Damage thresholds from high-velocity impacts
-- **MARS**
-  - Impact frequency and energy from Mars Reconnaissance Orbiter data
+#### Mars Suit Material Notes (Marcy et al., 2004)
+- EVOH for pressure/bladder layer
+- PET/EVOH co-extrusions, PTFE, PVDC coatings
+- Multi-layer laminates protect against low pressure
 
-## Mars UV Spectrum Overview (Patel et al., 2002)
+### 1.3 Temperature Extremes & Thermal Cycling
 
-### UV Range
-The ultraviolet (UV) spectrum on Mars ranges from approximately 190 nm to 410 nm.
+#### Martian Environmental Parameters for Simulation (Amils et al., 2007)
+- Low temperature: −35°C
 
-### Impact of Dust on UV Transmission
-High dust loading in the Martian atmosphere inversely affects the ratio of direct to diffuse UV transmission. Despite this, high illumination levels persist even during intense dust storms with high optical depths.
+#### A ground‐to‐exosphere Martian general circulation model (González-Galindo et al., 2009)
+- Thin atmosphere → day: 20°C, night: −73°C
+- Rapid heating/cooling → large thermal swings
 
-### UV Flux Values
-UV flux at the Mars surface is predominantly found in two regions:
+#### Biodegradable Thermoplastic Elastomers (McMullin et al., 2016)
+- POSS content improves stiffness, elastic recovery, and stability across temp fluctuations
+- Prestraining improves recovery
+- Crystallinity enhances mechanical stability and healing at low temps
 
-- Near 300–400 nm (UV-A and UV-B ranges)
-- Far 200–300 nm (short-wave UV region)
-This distribution is shaped by absorption and scattering effects in the atmosphere.
+#### PE-LLD Degradation Under Multiple Stressors (Corti et al., 2010)
+- Thermal aging accelerates oxidation and biodegradation
+- Synergistic effects with UV + fungi observed
 
-### Biological Significance of UV-C (However Less Common)
-Short-wave UV-C radiation (200–280 nm) is extremely damaging to biological organisms and is a critical factor when considering extraterrestrial life sustainability, however, it is less common on the surface.
+#### Self-Healing Materials for Space Applications (Pernigoni et al., 2021)
+- Thermal cycling range −120 °C to +120 °C can induce cracking, deformation, aging
 
-### Frequency of UV-A/B
-UV-A and UV-B wavelengths are more reliably available on the Martian surface compared to the shorter wavelength UV-C.
+### 1.4 Micrometeoroid Impacts
 
-### Effect of Dust on Light-Triggering
-Although dust attenuates direct UV radiation, sufficient diffuse UV remains to potentially activate light-triggered materials on Mars.
+#### High Survivability of Micrometeorites on Mars (Tomkins et al., 2019)
+- Mars: lower energy collisions but more frequent, higher particle survival
+- Flux: ~0.29–0.59 g/m²/year
 
-## Thermal cycles on Mars (González-Galindo et al., 2009)
-
-Thin atmosphere so low heat capacity, less heat stored meaning day = 20°C, night = -73°C (large swing), surface heats quickly during the day then during night this heat radiates into space very efficiently, leads to rapid cooling.
-
-## High Survivability of Micrometeorites on Mars: Sites With Enhanced Availability of Limiting Nutrients (Tomkins et al., 2019)
-
-### Type of Impacts
-Mars has lower energy collisions but more frequent ones with higher particle survival due to its thin atmosphere and lower gravity.
-
-### Data Frequency
-~2.5×10⁻¹⁶ to 5×10⁻¹⁶ g/cm²/s flux = ~7.9 × 10⁻⁴ to 1.6 × 10⁻³ g/m²/day = ~0.29–0.59 g/m²/year
+#### Self-Healing Materials for Space Applications (Pernigoni et al., 2021)
+- Small debris (<1 mm): minor erosion
+- Larger debris (~1 cm): potential catastrophic failure
