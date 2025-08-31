@@ -25,3 +25,5 @@
 12. Clawson, J. M. (2007). Feasibility of a Mars Surface Inflatable Greenhouse: Availability of Photosynthetic Irradiance and the Durability of Transparent Polymer Films (Doctoral dissertation, University of Colorado, Boulder, CO)
 
 13. Pastore, R., Delfini, A., Albano, M., Vricella, A., Marchetti, M., Santoni, F., & Piergentili, F. (2020). Outgassing effect in polymeric composites exposed to space environment thermal-vacuum conditions. Acta Astronautica. https://doi.org/10.1016/j.actaastro.2020.02.019
+
+14. Marcy, J.L., Shalanski, A.C., Yarmuch, M.A.R., & Patchett, B.M. (2004). Material Choices for Mars. Journal of Materials Engineering and Performance, 13(2), 208–217. https://doi.org/10.1361/10599490418479
