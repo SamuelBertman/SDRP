@@ -4,11 +4,12 @@ LARC™-CP1 (colourless polyimide developed by NASA):
 - high UV-resistance
 - high UV and stress causes embrittlement
 . mechanism - stress lowers the chain rupture activation energy -> UV forms radicals which leads to chain scission (longer chain split into shorter chains) = faster creep (slow, permanent deformation) mainly tertiary (accelerated strain)
+
 **[note]** creep acceleration needs to be coded based on stress + UV levels
 
 PE-LLD (linear, low density polyethylene):
 - degradation accelerated by UV, thermal, and fungal exposure
-. mechanism - oxidation degredation
+. mechanism - oxidation degredation -> more degredation 
 
 # Mechanical Stress / Creep
 ## (Yuan et al., 2021)
