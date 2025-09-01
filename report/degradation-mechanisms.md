@@ -1,11 +1,13 @@
 ### UV / Photodegradation
-
-- LARC™-CP1: highly UV-resistant but stress-accelerated degradation observed (Clawson, 2007)
-- Space-tested polymers: embrittlement under UV + stress
-- PE-LLD: UV + thermal + fungal accelerates degradation
+(Clawson, 2007)
+LARC™-CP1 (colourless polyimide developed by NASA): 
+- degredation accelerated by stress
+- high UV-resistance
+- high UV and stress causes embrittlement
+PE-LLD (linear, low density polyethylene):
+- degradation accelerated by UV, thermal, and fungal exposure
 
 ### Mechanical Stress / Creep
-
 - Creep stages: primary, secondary, tertiary
 - UV + mechanical stress reduces activation energy → chain scission
 - Models: Maxwell, Voigt, Kelvin, generalized Voigt-Kelvin, Arutyunyan model
