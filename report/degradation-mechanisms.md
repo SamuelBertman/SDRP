@@ -13,7 +13,7 @@ creep (permanent deformation, it is deformed, it is a set change)
 relevant equations for tracking state variables in the simulation
 chain scission:
 dt / dϕ​ = −kUV​ϕ
-ϕ = fraction of polymer chains still intact 1 = all intact, 0 = all broken, 0.75 = 75% intact
+ϕ = fraction of polymer chains still intact 1 = all intact, 0 = all broken, 0.75 = 75% intact (this is our chain scission value)
 kUV​ = rate constant for UV-induced chain scission
 d (extremely small changes of ...)
 
@@ -34,17 +34,27 @@ CS = number of chains breaking (chain scission)
 Eeff = effective activation energy
 f is just stating it is a function
 
-**[note]** creep acceleration needs to be coded based on stress + UV levels
-
 PE-LLD (linear, low density polyethylene):
 - degradation accelerated by UV, thermal, and fungal exposure
 . mechanism - oxidation degredation -> chain scission -> embrittlement (less ductile - less able to bend, will fracture more likely)
 
+state variable:
+chain scission (same equation as before)
+
 # Mechanical Stress / Creep
 ## (Yuan et al., 2021)
-- Creep stages: primary, secondary, tertiary
-- UV + mechanical stress reduces activation energy → chain scission
+- Creep stages: primary (decreasing strain rate), secondary (steady strain rate), tertiary (accelerating strain rate)
+- UV + mechanical stress reduces activation energy → chain scission -> accelerates strain to tertiary creep
 - Models: Maxwell, Voigt, Kelvin, generalized Voigt-Kelvin, Arutyunyan model
+
+state variables:
+damage parameter (represents the materials integrity - increasing value means decreasing integrity, it gets weaker)
+D = 1 − ϕ
+ϕ = this is the chain scission value previously calculated
+This gives old D value
+Dnew ​= Dold ​+ dD/dt ​⋅ Δt
+dt = Δt (these values should be 10-100x less than the time value significant changes occur e.g. 1hour significant changes occur, dt could be chosen as 1 minute or 1 second)
+Dold = initial damage parameter before considering stress (value is from first equation)
 
 # Thermal Effects
 ## (Tavanaei et al., 2022; Yang et al., 2006; Montarnal et al., 2011; Cash et al., 2015; Wojtecki et al., 2016)
