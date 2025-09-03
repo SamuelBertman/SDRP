@@ -1,4 +1,4 @@
-## (Clawson, 2007)
+## (Clawson, 2007) ✅
 LARC™-CP1 (colourless polyimide developed by NASA): 
 - degredation accelerated by stress
 - high UV-resistance
@@ -41,7 +41,7 @@ PE-LLD (linear, low density polyethylene):
 state variable:
 chain scission (same equation as before)
 
-# Mechanical Stress / Creep
+# Mechanical Stress / Creep ✅
 ## (Yuan et al., 2021)
 - Creep stages: primary (decreasing strain rate), secondary (steady strain rate), tertiary (accelerating strain rate)
 - UV + mechanical stress reduces activation energy → chain scission -> accelerates strain to tertiary creep
@@ -49,6 +49,9 @@ chain scission (same equation as before)
 
 state variables:
 damage parameter (represents the materials integrity - increasing value means decreasing integrity, it gets weaker)
+
+relevant equations for tracking state variables in the simulation
+damage parameter:
 D = 1 − ϕ
 ϕ = this is the chain scission value previously calculated
 This gives old D value
