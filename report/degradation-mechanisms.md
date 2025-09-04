@@ -65,7 +65,7 @@ Dnew ​= Dold ​+ dD/dt ​⋅ Δt
 dt = Δt (these values should be 10-100x less than the time value significant changes occur e.g. 1hour significant changes occur, dt could be chosen as 1 minute or 1 second)
 Dold = initial damage parameter before considering stress (value is from first equation)
 
-# Thermal Effects
+# Thermal Effects ✅
 ## (Tavanaei et al., 2022; Yang et al., 2006; Montarnal et al., 2011; Cash et al., 2015; Wojtecki et al., 2016)
 - Thermal cycling: rapid heating/cooling on Mars
 - Thermal aging: PE-LLD, POSS elastomers
