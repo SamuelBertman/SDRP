@@ -51,7 +51,7 @@ state variables:
 damage parameter (represents the materials integrity - increasing value means decreasing integrity, it gets weaker)
 
 relevant equations for tracking state variables in the simulation
-damage parameter:
+damage parameter for only UV/mechanical stress:
 D = 1 − ϕ
 ϕ = this is the chain scission value previously calculated
 This gives old D value
@@ -64,6 +64,28 @@ Dold = initial damage parameter before considering stress (value is from first e
 - Thermal cycling: rapid heating/cooling on Mars
 - Thermal aging: PE-LLD, POSS elastomers
 - Intrinsic/self-healing polymers: Vitrimers, epoxy/PCL blends affected
+
+state variable:
+chain scission 
+
+relevant equations for tracking state variables in the simulation
+chain scission due to thermal exposure:
+dϕ / dt = −kTϕ
+kT​ = Aexp(-(Ea,T​​ / RT)
+kT = thermal degredation rate constant (high temp -> high kT -> more chain scission -> more degredation)
+Ea,T​​ = activation energy for thermal chain scission
+Aexp = pre-exponential factor (A is how likely it attempts chain scission, exp is success rate)
+
+damage parameter only for thermal:
+Dthermal​ = 1−(ϕ⋅ν)
+ϕ = chain scission value
+ν = crosslink density value (number of crosslinks present - make it stronger/stiffer)
+
+ΔDamage parameter only for thermal:
+ΔDthermal ​= Dthermal ​− Dold
+
+damage parameter including thermal, UV, and stress:
+Dnew​ = Dold​ + ΔDthermal​​
 
 # Chemical / Oxidative Effects
 ## (Pernigoni et al., 2021)
