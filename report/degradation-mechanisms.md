@@ -11,11 +11,17 @@ effective activation energy (current activation energy - so here the stress lowe
 creep (permanent deformation, it is deformed, it is a set change)
 
 relevant equations for tracking state variables in the simulation
-chain scission:
-dt / dϕ​ = −kUV​ϕ
+chain scission for only UV:
+dϕ​ / dt = −kUV​ϕ
 ϕ = fraction of polymer chains still intact 1 = all intact, 0 = all broken, 0.75 = 75% intact (this is our chain scission value)
 kUV​ = rate constant for UV-induced chain scission
 d (extremely small changes of ...)
+
+chain scission for only stress:
+dϕstress / dt = −kstressϕ
+kstress​ = Aexp(−(Eeff / RT)
+Eeff ​= E0 ​− ΔEstress​
+E0 = baseline activation energy for chain rupture
 
 effective activation energy:
 k = Aexp(−(Eeff​​ / RT))
@@ -76,16 +82,24 @@ kT = thermal degredation rate constant (high temp -> high kT -> more chain sciss
 Ea,T​​ = activation energy for thermal chain scission
 Aexp = pre-exponential factor (A is how likely it attempts chain scission, exp is success rate)
 
+crosslink density:
+dν​ / dt = kheal​(1−ν) − kbreak​ν (v at the end is not an error)
+kheal = healing rate
+kbreak = degredation rate
+
 damage parameter only for thermal:
-Dthermal​ = 1−(ϕ⋅ν)
+Dthermal​ = 1−(ϕ⋅ν(t))
 ϕ = chain scission value
-ν = crosslink density value (number of crosslinks present - make it stronger/stiffer)
+ν(t) = crosslink density value (number of crosslinks present - make it stronger/stiffer) (must not be constant as healing kinetics included)
 
 ΔDamage parameter only for thermal:
 ΔDthermal ​= Dthermal ​− Dold
 
 damage parameter including thermal, UV, and stress:
 Dnew​ = Dold​ + ΔDthermal​​
+
+degredation rate total including all factors:
+
 
 # Chemical / Oxidative Effects
 ## (Pernigoni et al., 2021)
@@ -98,3 +112,6 @@ Dnew​ = Dold​ + ΔDthermal​​
 - PE-LLD: sunlight + fungi + thermal → 20% faster oxidation, higher CO₂ evolution
 - Cumulative stress accelerates creep, chain scission, embrittlement
 - Relevant for Martian polymer longevity
+
+NEED AN EQUATION TO CALCULATE THE DEGREDATION RATE INCLUDING ALL THE DIFF EQUATIONS USED TO THEN GET THE OVERALL RATE
+CALCULATING v IS VERY IMPORTANT FOR HEALING KINETICS AND THIS PROJECT AS THE VALUE CANNOT BE CONSTANT AND MUST INSTEAD BE DYNAMIC
