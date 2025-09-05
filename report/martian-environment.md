@@ -1,4 +1,4 @@
-# Radiation (UV Exposure)
+# Radiation (UV Exposure) ✅
 ## Mars UV Spectrum Overview (Patel et al., 2002)
 UV Range: 190–410 nm, UV-A/B present, UV-C rare but highly damaging to material
 Dust effects: High dust loading reduces direct UV, but diffuse UV remains sufficient for light-triggered materials
@@ -25,7 +25,7 @@ EVOH for pressure/bladder layer
 PET/EVOH co-extrusions, PTFE, PVDC coatings
 Multi-layer laminates protect against low pressure
 
-# Temperature Extremes & Thermal Cycling
+# Temperature Extremes & Thermal Cycling ✅
 ## Martian Environmental Parameters for Simulation (Amils et al., 2007)
 Low temperature: −35°C
 
@@ -45,7 +45,7 @@ Synergistic effects with UV + fungi observed
 ## Self-Healing Materials for Space Applications (Pernigoni et al., 2021)
 Thermal cycling range −120 °C to +120 °C can induce cracking, deformation, aging
 
-# Micrometeoroid Impacts
+# Micrometeoroid Impacts ✅
 ## High Survivability of Micrometeorites on Mars (Tomkins et al., 2019)
 Mars: lower energy collisions but more frequent, higher particle survival
 Flux: ~0.29–0.59 g/m²/year
@@ -54,7 +54,7 @@ Flux: ~0.29–0.59 g/m²/year
 Small debris (<1 mm): minor erosion
 Larger debris (~1 cm): potential catastrophic failure
 
-# simulation requirements based on the previous
+# simulation requirements based on the previous ✅
 ## UV:
 - need to include UV-A+B
 - need to include accelerated UV scenarios (2-7x flux) to model the long-term degredation
