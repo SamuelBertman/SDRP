@@ -101,7 +101,7 @@ Dthermal​ = 1−(ϕ⋅ν(t))
 damage parameter including thermal, UV, and stress:
 Dnew​ = Dold​ + ΔDthermal​​
 
-# Chemical / Oxidative Effects
+# Chemical / Oxidative Effects ✅
 ## (Pernigoni et al., 2021)
 - Perchlorate oxidation: reduces modulus & fracture toughness 
 - Synergistic effects: UV + oxidation + thermal stress
