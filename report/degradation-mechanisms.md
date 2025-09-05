@@ -19,14 +19,17 @@ d (extremely small changes of ...)
 
 chain scission for only stress:
 dϕstress / dt = −kstressϕ
-kstress​ = Aexp(−(Eeff / RT)
-Eeff ​= E0 ​− ΔEstress​
+kstress​ = Aexp(−(Eeff / RT))
+ΔEstress ​= σ ⋅ V∗
+σ = applied stress
+V = activation volume (the volume of polymer that has to move before it can break due to stress)
+Eeff ​= E0 ​− ΔEstress ​− ΔEox​ (ΔEox​ value calculation is later on)
 E0 = baseline activation energy for chain rupture
 
-effective activation energy:
-k = Aexp(−(Eeff​​ / RT))
+effective activation energy effect on k:
+kSO = Aexp(−(Eeff​​ / RT))
 Eeff = effective activation energy (calculated via 𝐸eff = E0 - ΔEstress, E0 = baseline rupture energy, ΔEstress = energy reduction due to stress)
-k = chain scission or creep rate
+kSO = rate constant for chain scission under environmental factors: stress and oxidation
 Aexp = how often chains attempt to rupture (chains are always vibrating so always have the chance to overcome the activation energy)
 
 creep:
@@ -77,7 +80,7 @@ chain scission
 relevant equations for tracking state variables in the simulation
 chain scission due to thermal exposure:
 dϕ / dt = −kTϕ
-kT​ = Aexp(-(Ea,T​​ / RT)
+kT​ = Aexp(-(Ea,T​​ / RT))
 kT = thermal degredation rate constant (high temp -> high kT -> more chain scission -> more degredation)
 Ea,T​​ = activation energy for thermal chain scission
 Aexp = pre-exponential factor (A is how likely it attempts chain scission, exp is success rate)
@@ -98,20 +101,26 @@ Dthermal​ = 1−(ϕ⋅ν(t))
 damage parameter including thermal, UV, and stress:
 Dnew​ = Dold​ + ΔDthermal​​
 
-degredation rate total including all factors:
-
-
 # Chemical / Oxidative Effects
 ## (Pernigoni et al., 2021)
 - Perchlorate oxidation: reduces modulus & fracture toughness 
 - Synergistic effects: UV + oxidation + thermal stress
 - Extrinsic healing systems vulnerable; intrinsic systems more robust
 
-# Multi-Stressor / Synergistic Effects
-## (Tavanaei et al., 2022)
-- PE-LLD: sunlight + fungi + thermal → 20% faster oxidation, higher CO₂ evolution
-- Cumulative stress accelerates creep, chain scission, embrittlement
-- Relevant for Martian polymer longevity
+state variable:
+chain scission
+modulus (how stiff it is, how much it resists deformation)
+damage parameter
+
+relevant equations for tracking state variables in the simulation 
+chain scission from only oxidation:
+dϕ / dt = −koxϕ
+𝑘𝑜𝑥 = 𝐴exp(−(𝐸𝑒𝑓𝑓 / RT))[𝑂𝑥]
+ΔEox​ = α[Ox​]
+[Ox​] = oxidation concentration (how much of a chemical is present that can oxidise the polymer)​
+α = proportionality constant
+Eeff ​= E0 ​− ΔEstress ​− ΔEox​
+[𝑂𝑥] = oxidant concentration
 
 NEED AN EQUATION TO CALCULATE THE DEGREDATION RATE INCLUDING ALL THE DIFF EQUATIONS USED TO THEN GET THE OVERALL RATE
 CALCULATING v IS VERY IMPORTANT FOR HEALING KINETICS AND THIS PROJECT AS THE VALUE CANNOT BE CONSTANT AND MUST INSTEAD BE DYNAMIC
