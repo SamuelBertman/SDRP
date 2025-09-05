@@ -53,3 +53,22 @@ Flux: ~0.29–0.59 g/m²/year
 ## Self-Healing Materials for Space Applications (Pernigoni et al., 2021)
 Small debris (<1 mm): minor erosion
 Larger debris (~1 cm): potential catastrophic failure
+
+# simulation requirements based on the previous
+## UV:
+- need to include UV-A+B
+- need to include accelerated UV scenarios (2-7x flux) to model the long-term degredation
+## pressure:
+- need to model a hard vacuum (~10⁻⁵ mbar), outgassing effects, and chemical degredation from perchlorates
+## temperature:
+- need to include daily martian swings (20°C to -73°C) and extreme thermal cycles (-120°C to 120°C) - incorporating crystallinity, prestrain, and elasticity
+## micrometeroid damage:
+- need to sim small debris (<1mm) and larger debris (1cm) with a flux of about 0.29 to 0.59 g/m²/year
+## impacts from factors
+- need to include UV, thermal + mechanical loading effects on polymer chain integrity and healing performance
+
+
+
+
+
+
