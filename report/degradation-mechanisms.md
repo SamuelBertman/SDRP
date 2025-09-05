@@ -12,7 +12,7 @@ creep (permanent deformation, it is deformed, it is a set change)
 
 relevant equations for tracking state variables in the simulation
 chain scission for only UV:
-dϕ​ / dt = −kUV​ϕ
+dϕ​uv / dt = −kUV​ϕ
 ϕ = fraction of polymer chains still intact 1 = all intact, 0 = all broken, 0.75 = 75% intact (this is our chain scission value)
 kUV​ = rate constant for UV-induced chain scission
 d (extremely small changes of ...)
@@ -79,7 +79,7 @@ chain scission
 
 relevant equations for tracking state variables in the simulation
 chain scission due to thermal exposure:
-dϕ / dt = −kTϕ
+dϕtherm / dt = −kTϕ
 kT​ = Aexp(-(Ea,T​​ / RT))
 kT = thermal degredation rate constant (high temp -> high kT -> more chain scission -> more degredation)
 Ea,T​​ = activation energy for thermal chain scission
@@ -114,7 +114,7 @@ damage parameter
 
 relevant equations for tracking state variables in the simulation 
 chain scission from only oxidation:
-dϕ / dt = −koxϕ
+dϕox / dt = −koxϕ
 𝑘𝑜𝑥 = 𝐴exp(−(𝐸𝑒𝑓𝑓 / RT))[𝑂𝑥]
 ΔEox​ = α[Ox​]
 [Ox​] = oxidation concentration (how much of a chemical is present that can oxidise the polymer)​
@@ -122,5 +122,11 @@ dϕ / dt = −koxϕ
 Eeff ​= E0 ​− ΔEstress ​− ΔEox​
 [𝑂𝑥] = oxidant concentration
 
-NEED AN EQUATION TO CALCULATE THE DEGREDATION RATE INCLUDING ALL THE DIFF EQUATIONS USED TO THEN GET THE OVERALL RATE
+damage parameter updated for oxidation:
+Dox​ = 1−ϕox
+Dnew​ = 1−(1−Dold​)(1−Dox​)​​
+
+degredation rate including all factors (UV, stress, oxidation, thermal)
+dϕtotal/dt ​= dϕUV/dt ​​+ dϕstress​/dt ​+ dϕT/dt ​​+ dϕox/dt​​
+
 CALCULATING v IS VERY IMPORTANT FOR HEALING KINETICS AND THIS PROJECT AS THE VALUE CANNOT BE CONSTANT AND MUST INSTEAD BE DYNAMIC
