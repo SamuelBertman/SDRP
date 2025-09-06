@@ -57,3 +57,5 @@
 28. Tavanaei, A., & et al. (2022). Prolonged in situ self-healing in structural composites via thermo-reversible entanglement. Nature Communications, 13(1), 1–11. https://doi.org/10.1038/s41467-022-33936-z
 
 29. Yang, X., & et al. (2006). Self-healing of Polymers and Polymer Composites. Polymer Reviews, 46(2), 1–18. https://doi.org/10.1080/15583720600768993
+
+30. Duan, X., Yuan, H., Tang, W., He, J., & Guan, X. (2021). A Phenomenological Primary–Secondary–Tertiary Creep Model for Polymer-Bonded Composite Materials. Polymers, 13(14), 2353. https://doi.org/10.3390/polym13142353
