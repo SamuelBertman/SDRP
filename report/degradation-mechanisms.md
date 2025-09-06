@@ -52,7 +52,7 @@ chain scission (same equation as before)
 
 # Mechanical Stress / Creep ✅
 ## (Yuan et al., 2021)
-- Creep stages: primary (decreasing strain rate), secondary (steady strain rate), tertiary (accelerating strain rate)
+- the different creep stages are, primary (when strain rate is decreasing in value), secondary (when the strain rate is roughly constant), and tertiary (when strain rate is accelerating with time)
 - UV + mechanical stress reduces activation energy → chain scission -> accelerates strain to tertiary creep
 - Models: Maxwell, Voigt, Kelvin, generalized Voigt-Kelvin, Arutyunyan model
 
