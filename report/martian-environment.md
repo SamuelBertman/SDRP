@@ -31,9 +31,9 @@ Martian atmosphere is thin, temperature during day is roughly 20°C whilst at ni
 Rapid heating/cooling → large thermal swings
 
 ## POSS Elastomers (McMullin et al., 2016)
-POSS content improves stiffness, elastic recovery, and stability across temp fluctuations
-Prestraining improves recovery
-Crystallinity enhances mechanical stability and healing at low temps
+- POSS content improves stiffness, elastic recovery, and stability across temp fluctuations
+- Prestraining improves recovery
+- Crystallinity enhances mechanical stability and healing at low temps
 
 ## PE-LLD Degradation Under Multiple Stressors (Corti et al., 2010)
 Thermal aging accelerates oxidation and biodegradation
