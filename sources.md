@@ -47,3 +47,5 @@
 23. Vermeersch, L., Wang, T., Van den Brande, N., De Vleeschouwer, F., & van Duin, A. C. T. (2024). Computational insights into tunable reversible network materials: Accelerated ReaxFF kinetics of furan-maleimide Diels−Alder reactions for self-healing and recyclability. J. Phys. Chem. A, 128, 10431–10439. https://doi.org/10.1021/acs.jpca.4c05470
 
 24. Zheng, X., et al., 2018, Molecular dynamics simulations on self-healing behavior of photo-polymerization network, Smart Mater. Struct. 27, 105013
+
+25. Valle, G. D.; Litteken, D. A. Review of Habitable Softgoods Inflatable Design, Analysis, Testing, and Potential Space Applications. AIAA Scitech 2019 Forum, 2019, DOI: 10.2514/6.2019-1018
