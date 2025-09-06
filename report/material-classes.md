@@ -17,13 +17,13 @@
 - Aromatic Schiff base groups enhance mechanical strength
 - Intrinsic healing; light triggers reversible covalent bonds
 - Self-healing efficiency 80.03%, 24h healing at ambient temps
-. shiff bases will not be used as healing is too slow for Martian environment, however nano-composite coating will be used to reinforce in the final laminate model
+. shiff bases will not be used as healing is too slow for Martian environment, however nano-composite coating (improves strength but has no healing properties) will be used to reinforce in the final laminate model (layered material sim) - the diff layers of the habitat
 
 #### Self-Healing in Epoxy Thermoset Polymer Films (Moniruzzaman et al., 2016)
 - Azobenzene-functionalized epoxy
 - Intrinsic UV-induced trans-cis isomerization
 - Bulk diffusion below Tg/Tm favorable for space
-. azobenzene groups will be used as they support healing under low Martian temps
+. azobenzene groups will be used as they support healing under low Martian temps, also they have clear MD parameterization pathways (molecular dynamic sims require force-field parameters, azobenzene and coumarin have clear ones present in literature making them easy to model)
 
 #### Mars-Relevant Light-Responsive Polyurethane Systems (Li et al., 2017; Zhang et al., 2017; Aguirresarobe et al., 2016)
 - AZO, SP, Coumarin-PU, Anthracene-PU, o-NB PU, RhB PU
@@ -35,7 +35,7 @@
 - Bottom: CPI, Top: PDMS + linseed oil microcapsules
 - Multi-stimuli: air, moisture, heat, UV
 - Rapid UV-light healing (20 min)
-. microcapsules will not be included in simulations, however will include in FEA laminate models for rapid crack closure
+. microcapsules (extrinsic healing agents, burst when cracks form) will not be included in simulations, however will include in FEA laminate models for rapid crack closure
 
 #### Self-Healing Polyurethane Elastomers (Fang et al., 2024)
 - UPy and boronic ester dynamic bonds
@@ -49,7 +49,7 @@
 - Embedded 3D vascular networks
 - Multi-cycle healing >100% efficiency in well-mixed regions
 - Fiber bridging enhances energy absorption
-. need to include vascular reinforcement as a structural-level add-on in FEA only
+. need to include vascular reinforcement as a structural-level add-on in FEA only (tiny channels that carry healing liquid - not built into the polymer design but instead added at the composite structure level, as like a reinforcement)
 
 #### Inflatable Habitat Materials (Valle et al., 2019)
 - Layers: liner, bladder, restraint, MMOD, TPS, AO
@@ -76,4 +76,19 @@
 - CF-epoxy, GF-epoxy, KF-epoxy: stability and pre-conditioning
 . polymer will be pro-conditioned in sims to account for Martian vacuum exposure
 
-
+# model will include
+## base polymer
+coumarin-PU
+## healing trigger
+light-activated reversible dimerization in the coumarin (intrinsic) 
+## comparison material (low-healing)
+azobenzene-PU
+## damage sources simulated
+chain scission from: micrometeoroid impacts, thermal cycling, UV, oxidation
+## outputs
+healing efficiency, timescale of recovery, repeatability 
+# FEA additions (on a structural level)
+- microcapsules (extrinsic) for further healing
+- placement in bladder/restraint layers
+- nanofiller reinforcement for mechanical stability
+- external non-healing barrier coating for gas retention
