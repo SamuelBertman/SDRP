@@ -48,4 +48,10 @@
 
 24. Zheng, X., et al., 2018, Molecular dynamics simulations on self-healing behavior of photo-polymerization network, Smart Mater. Struct. 27, 105013
 
-25. Valle, G. D.; Litteken, D. A. Review of Habitable Softgoods Inflatable Design, Analysis, Testing, and Potential Space Applications. AIAA Scitech 2019 Forum, 2019, DOI: 10.2514/6.2019-1018
+25. Montarnal, D., Capelot, M., Tournilhac, F., & Leibler, L. (2011). Silica-like malleable materials from permanent organic networks. Science, 334(6058), 965–968. https://doi.org/10.1126/science.1212648
+
+26. Cash, J. J., & et al. (2015). Room-temperature self-healing polymers based on dynamic covalent boronic esters. Nature Communications, 6, 1–9. https://doi.org/10.1038/ncomms10099
+
+27. Wojtecki, R. J., & et al. (2016). Self-healing polymers and composites: A review of recent developments. Polymer Reviews, 56(1), 1–20. https://doi.org/10.1080/15583724.2015.1060992
+
+
