@@ -27,10 +27,10 @@ Multi-layer laminates protect against low pressure
 Low temperature: −35°C
 
 ## A ground‐to‐exosphere Martian general circulation model (González-Galindo et al., 2009)
-Thin atmosphere → day: 20°C, night: −73°C
+Martian atmosphere is thin, temperature during day is roughly 20°C whilst at night it is roughly −73°C
 Rapid heating/cooling → large thermal swings
 
-## Biodegradable Thermoplastic Elastomers (McMullin et al., 2016)
+## POSS Elastomers (McMullin et al., 2016)
 POSS content improves stiffness, elastic recovery, and stability across temp fluctuations
 Prestraining improves recovery
 Crystallinity enhances mechanical stability and healing at low temps
