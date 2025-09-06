@@ -56,7 +56,7 @@ Larger debris (~1 cm): potential catastrophic failure
 - need to include UV-A+B
 - need to include accelerated UV scenarios (2-7x flux) to model the long-term degredation
 ## pressure:
-- need to model a hard vacuum (~10⁻⁵ mbar), outgassing effects, and chemical degredation from perchlorates
+- need to model a hard vacuum (~6-10 mbar), outgassing effects, and chemical degredation from perchlorates
 ## temperature:
 - need to include daily martian swings (20°C to -73°C) and extreme thermal cycles (-120°C to 120°C) - incorporating crystallinity, prestrain, and elasticity
 ## micrometeroid damage:
