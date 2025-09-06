@@ -1,10 +1,7 @@
 # Radiation (UV Exposure) ✅
 ## Mars UV Spectrum Overview (Patel et al., 2002)
-UV Range: 190–410 nm, UV-A/B present, UV-C rare but highly damaging to material
-Dust effects: High dust loading reduces direct UV, but diffuse UV remains sufficient for light-triggered materials
-UV Flux: UV-A/B reliably available; UV-C rare
-Biological significance: UV-C highly damaging but uncommon
-Effect on light-triggering: diffuse UV may activate materials
+- Martian UV range is from 190 to 410 nm, UV-A/B is mainly present but UV-C is rare however highly damaging to material
+- high levels of dust reduces direct UV, but diffuse UV still remains sufficient enough for light-activated materials
 
 ## Mars Environmental Parameters for Simulation (Amils et al., 2007)
 Radiation exposure: Estimated solar UV flux, UVA/UVB relevant to photoinitiators
