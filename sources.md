@@ -59,3 +59,5 @@
 29. Yang, X., & et al. (2006). Self-healing of Polymers and Polymer Composites. Polymer Reviews, 46(2), 1–18. https://doi.org/10.1080/15583720600768993
 
 30. Duan, X., Yuan, H., Tang, W., He, J., & Guan, X. (2021). A Phenomenological Primary–Secondary–Tertiary Creep Model for Polymer-Bonded Composite Materials. Polymers, 13(14), 2353. https://doi.org/10.3390/polym13142353
+
+31. Aguirresarobe, R. H., Martin, L., Aramburu, N., Irusta, L., & Fernandez-Berridi, M. J. (2016). Coumarin-based light responsive healable waterborne polyurethanes. Progress in Organic Coatings, 99, 314–321. https://doi.org/10.1016/j.porgcoat.2016.06.011
