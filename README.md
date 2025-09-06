@@ -14,24 +14,24 @@ Designing the future of Martian habitats demands materials that *self-heal* unde
 - Generates predictive frameworks to accelerate experimental validation and aerospace qualification.
 
 ## Simulations to be run
-UV - LAMMPS or GROMACS molecular dynamics with photon-coupled modules using a flux of 2-7x
+### UV - LAMMPS or GROMACS molecular dynamics with photon-coupled modules using a flux of 2-7x
 . chain scission (ϕ) over time
 . damage parameter (D)
 . crosslink density (ν)
-Thermal cycling - COMSOL multiphysics, molecular dynamics for chain mobility
+### Thermal cycling - COMSOL multiphysics, molecular dynamics for chain mobility
 . chain scission (thermally-induced)
 . crosslink evolution
 . healing efficiency under temperature cycles
-Stress + creep - python + ASE lattice model + Maxwell/Voigt/Kelvin viscoelastic models
+### Stress + creep - python + ASE lattice model + Maxwell/Voigt/Kelvin viscoelastic models
 . strain (ε) vs time
 . creep stages
 . stress recovery 
 . D evolution
-Oxidation - ReaxFF molecular dynamics
+### Oxidation - ReaxFF molecular dynamics
 . ϕ (oxidation-induced)
 . modulus reduction
 . D evolution
-Micrometeoroid impacts - LAMMPS or GROMACS
+### Micrometeoroid impacts - LAMMPS or GROMACS
 . localised ϕ
 . structural damage zones
 . D vs time
