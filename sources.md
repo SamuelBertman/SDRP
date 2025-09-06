@@ -61,3 +61,7 @@
 30. Duan, X., Yuan, H., Tang, W., He, J., & Guan, X. (2021). A Phenomenological Primary–Secondary–Tertiary Creep Model for Polymer-Bonded Composite Materials. Polymers, 13(14), 2353. https://doi.org/10.3390/polym13142353
 
 31. Aguirresarobe, R. H., Martin, L., Aramburu, N., Irusta, L., & Fernandez-Berridi, M. J. (2016). Coumarin-based light responsive healable waterborne polyurethanes. Progress in Organic Coatings, 99, 314–321. https://doi.org/10.1016/j.porgcoat.2016.06.011
+
+32. Cao, S.; Li, S.; Li, M.; Xu, L.; Ding, H.; Xia, J.; Zhang, M.; Huang, K. A thermal self-healing polyurethane thermoset based on phenolic urethane. Polymer Journal 2017, 49, 775–781. DOI: 10.1038/pj.2017.48
+
+
