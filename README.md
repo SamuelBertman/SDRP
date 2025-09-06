@@ -13,18 +13,28 @@ Designing the future of Martian habitats demands materials that *self-heal* unde
 - Addresses a significant aerospace materials challenge: **extending operational life of inflatable space structures with minimal maintenance**.
 - Generates predictive frameworks to accelerate experimental validation and aerospace qualification.
 
-## Methods & Tools
-- **Materials Studio**: Molecular design and initial polymer configuration.
-- **Python + Atomic Simulation Environment (ASE)**: Custom scripts for polymer lattice damage and healing simulations.
-- **LAMMPS / GROMACS**: High-fidelity molecular dynamics simulating micrometeoroid impacts and radiation damage.
-- **COMSOL Multiphysics**: Thermal and structural finite element simulations under Martian conditions.
-- **MATLAB**: Integrated modeling of healing kinetics and environmental parameter variations.
-
-## Key Simulation Assumptions (Justified)
-- Polymer modeled as a 2D reactive lattice for computational tractability; next phase will scale to 3D models.
-- Light-triggered healing modeled as a consistent activation stimulus—baseline scenario before variable illumination studies.
-- Martian environmental constants reflect mean conditions to establish foundational response metrics.
-- Control (non-healing) polymer modeled for rigorous comparative durability benchmarking.
+## Simulations to be run
+UV - LAMMPS or GROMACS molecular dynamics with photon-coupled modules using a flux of 2-7x
+. chain scission (ϕ) over time
+. damage parameter (D)
+. crosslink density (ν)
+Thermal cycling - COMSOL multiphysics, molecular dynamics for chain mobility
+. chain scission (thermally-induced)
+. crosslink evolution
+. healing efficiency under temperature cycles
+Stress + creep - python + ASE lattice model + Maxwell/Voigt/Kelvin viscoelastic models
+. strain (ε) vs time
+. creep stages
+. stress recovery 
+. D evolution
+Oxidation - ReaxFF molecular dynamics
+. ϕ (oxidation-induced)
+. modulus reduction
+. D evolution
+Micrometeoroid impacts - LAMMPS or GROMACS
+. localised ϕ
+. structural damage zones
+. D vs time
 
 ## Deliverables
 - **Fully documented simulation codebase** with modular, extensible architecture.
