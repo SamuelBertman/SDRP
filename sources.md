@@ -54,4 +54,6 @@
 
 27. Wojtecki, R. J., & et al. (2016). Self-healing polymers and composites: A review of recent developments. Polymer Reviews, 56(1), 1–20. https://doi.org/10.1080/15583724.2015.1060992
 
+28. Tavanaei, A., & et al. (2022). Prolonged in situ self-healing in structural composites via thermo-reversible entanglement. Nature Communications, 13(1), 1–11. https://doi.org/10.1038/s41467-022-33936-z
 
+29. Yang, X., & et al. (2006). Self-healing of Polymers and Polymer Composites. Polymer Reviews, 46(2), 1–18. https://doi.org/10.1080/15583720600768993
