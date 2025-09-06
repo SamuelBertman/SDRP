@@ -13,7 +13,7 @@ Designing the future of Martian habitats demands materials that *self-heal* unde
 - Addresses a significant aerospace materials challenge: **extending operational life of inflatable space structures with minimal maintenance**.
 - Generates predictive frameworks to accelerate experimental validation and aerospace qualification.
 
-## Simulations to be run
+## Simulations to be Run
 ### UV - LAMMPS or GROMACS molecular dynamics with photon-coupled modules using a flux of 2-7x
 . chain scission (ϕ) over time
 . damage parameter (D)
@@ -35,6 +35,17 @@ Designing the future of Martian habitats demands materials that *self-heal* unde
 . localised ϕ
 . structural damage zones
 . D vs time
+### Healing - molecular dynamics
+. healing efficiency
+. time for full/partial recovery
+. repeatability
+
+## FEA laminate simulations
+### . using COMSOL multiphysics
+parameters: healing kinetics v(t), D: UV stress thermal oxidation, effective elastic modulus, creep properties
+environmental conditions: ~10⁻⁵ mbar (vacuum), thermal swings, combined UV mechanical and thermal loading, micrometeoroid flux
+layers: bladder + restraint layers (where self-healing PU is), microcapsules for extrinsic healing (structural-level add-on), nanofiller reinforcement, external barrier layer (for gas retention)
+outputs: stress-strain curves over repeated damage-heal cycles, spatial damage maps, net durability gain vs non-healing laminate, optimal placement/density of microcapsules and nanofillers
 
 ## Deliverables
 - **Fully documented simulation codebase** with modular, extensible architecture.
